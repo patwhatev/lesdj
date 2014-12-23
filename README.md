@@ -7,5 +7,12 @@ You'll need the following:
 
 Requests
   sudo easy_install requests
+
 BeautifulSoup
   sudo easy_install BeautifulSoup4
+
+Selenium
+  sudo easy_install selenium
+
+Phantom.JS
+  http://phantomjs.org/download.html
