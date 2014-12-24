@@ -9,13 +9,13 @@ print('▒█░░▒█ ▒█▀▀▀ ▒█░░░ ▒█▀▀█ ▒█
 print('▒█▄▄▄█ ▒█▀▀▀ ▒█░░░ ▒█▄▄█ ▒█▀▀▄ ▒█░░▒█ ░▒█░░') 
 print('░░▒█░░ ▒█▄▄▄ ▒█▄▄█ ▒█░░░ ▒█▄▄█ ▒█▄▄▄█ ░▒█░░')
 
-print("Hi there, I am YelpBot")
-name =  raw_input("What is your name?")
+print("YelpBot: Hi there, I am YelpBot")
+name =  raw_input("YelpBot: What is your name?")
 print"Hey", name 
 
-food = raw_input('what are you craving?:')
-zipcode = raw_input('What is your Zip Code?:')
-print ("Please wait...")
+food = raw_input('YelpBot: What are you craving?')
+zipcode = raw_input('YelpBot: What is your Zip Code?')
+print  "YelpBot: Got it. Please wait..."
 
 #PhantomJS
 driver = webdriver.PhantomJS(executable_path='/Users/lcruz/Desktop/phantomjs')
@@ -32,13 +32,13 @@ url = driver.current_url
 r = requests.get(url)
 soup = BeautifulSoup(r.content)
 soup.find_all("a",{"class","biz-name"})
-print "Here are some nearby places to eat " + food 
+print "YelpBot: Here are some nearby places to eat " + food 
 print("==========================================================")
 for link in soup.find_all("a",{"class","biz-name"}):
 	print(link.get_text())
-print "Here are the addresses:" 
+print "YelpBot: Oh yeah! Here are the addresses:" 
 soup.find_all("address")
 for link in soup.find_all("address"):
 	print(link.get_text())
 
-print('Have a good time!') + name 
+print('YelpBot: Have a good time!') + name 
