@@ -5,13 +5,13 @@ This is YelpBot - It tells you where to eat.
 
 You'll need the following dependencies/packages:
 
-Open Terminal - copy and paste each
+In Terminal/Command Line
 =======
-sudo easy_install requests
+<code>$ sudo easy_install requests</code>
 
-sudo easy_install BeautifulSoup4
+<code>$ sudo easy_install BeautifulSoup4</code>
 
-sudo easy_install selenium
+<code>$ sudo easy_install selenium</code>
 
 
 ===============================================
