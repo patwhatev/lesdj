@@ -11,7 +11,7 @@ print('░░▒█░░ ▒█▄▄▄ ▒█▄▄█ ▒█░░░ ▒█
 
 print("YelpBot: Hi there, I am YelpBot")
 name =  raw_input("YelpBot: What is your name?")
-print"Hey", name 
+print"YelpBot: Hey", name 
 
 food = raw_input('YelpBot: What are you craving?')
 zipcode = raw_input('YelpBot: What is your Zip Code?')
@@ -34,11 +34,18 @@ soup = BeautifulSoup(r.content)
 soup.find_all("a",{"class","biz-name"})
 print "YelpBot: Here are some nearby places to eat " + food 
 print("==========================================================")
-for link in soup.find_all("a",{"class","biz-name"}):
-	print(link.get_text())
-print "YelpBot: Oh yeah! Here are the addresses:" 
-soup.find_all("address")
-for link in soup.find_all("address"):
-	print(link.get_text())
+
+#Business Name
+for business in soup.find_all("a",{"class","biz-name"}):
+	bizname = business.get_text()
+	print bizname
+	
+#Address
+soup.find_all("address","biz-name")
+for address in soup.find_all("address"):
+	location = address.get_text()
+	print location
+
+
 
 print('YelpBot: Have a good time!') + name 
