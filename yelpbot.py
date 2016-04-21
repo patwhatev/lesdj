@@ -35,12 +35,15 @@ print("Searching For: "+ query)
 driver.find_element_by_css_selector('input[name="submit"]').click()
 print("started search . . .")
 results = driver.find_elements_by_css_selector('.skatevideo a')
-for result in results[::3]:
+lastUrl = ""
+for result in results:
     url = result.get_attribute("href")
-    if 'soundtrack' in url: 
-    	print("storing " + url)
-    	with open("urls.py", "a") as myfile:
-    		myfile.write('"'+ url + '",\n')
+    if 'soundtrack' in url:
+    	if lastUrl != url:
+    		print("storing " + url)
+    		with open("urls.py", "a") as myfile:
+    			myfile.write('"'+ url + '",\n')
+    		lastUrl = url
 
 
 # #BeautifulSoup
