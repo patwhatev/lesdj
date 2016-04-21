@@ -21,22 +21,24 @@ print('\________|\________| \______/ \_______/  \______/ ')
 # name =  raw_input("YelpBot: What is your name?")
 # print"YelpBot: Hey", name 
 
-query = raw_input('YelpBot: What are you craving?')
+query = raw_input('WELCOME TO LES DJ \n\nNAME A VIDEO \n')
 # zipcode = raw_input('YelpBot: What is your Zip Code?')
-print  "YelpBot: Got it. Please wait..."
+print("ITE MAN I GOT U")
 
 #PhantomJS
 driver = webdriver.PhantomJS(executable_path='/Users/peverman/Desktop/phantomjs/bin/phantomjs')
 driver.get('http://www.skatevideosite.com/soundtracks')
 driver.find_element_by_name("searchterm").clear()
 driver.find_element_by_name("searchterm").send_keys(query)
-driver.find_element_by_name("submit").click()
-print("searching matches for ...") + query 
-driver.find_element_by_css_selector(".skatevideo .blacktitle").click()
-print("made it this far")
-output = driver.find_element_by_id("soundtracklist")
-print output
-driver.find_element_by_id("header-search-submit").click()
+print("Searching For: ") + query
+driver.find_element_by_css_selector('input[name="submit"]').click()
+print("started search . . .")
+results = driver.find_elements_by_css_selector('.skatevideo a')
+for result in results[::3]:
+    url = result.get_attribute("href")
+    if 'soundtrack' in url: 
+    	print(url)
+
 #BeautifulSoup
 url = driver.current_url 
 r = requests.get(url)
