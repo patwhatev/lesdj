@@ -1,7 +1,7 @@
-YelpBot
+Sk8List
 =======
 
-This is YelpBot - It tells you where to eat. 
+A bot that allows users to automate skate video soundrack playlists by a variety of filters. 
 
 You'll need the following dependencies/packages:
 

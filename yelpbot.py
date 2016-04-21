@@ -3,29 +3,39 @@ from selenium import webdriver
 import requests
 from bs4 import BeautifulSoup
 import os
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
-#YelpBot Intro
-print('▒█░░▒█ ▒█▀▀▀ ▒█░░░ ▒█▀▀█ ▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀')
-print('▒█▄▄▄█ ▒█▀▀▀ ▒█░░░ ▒█▄▄█ ▒█▀▀▄ ▒█░░▒█ ░▒█░░') 
-print('░░▒█░░ ▒█▄▄▄ ▒█▄▄█ ▒█░░░ ▒█▄▄█ ▒█▄▄▄█ ░▒█░░')
+#Sk9Bot Intro
+print('$$\       $$$$$$$$\  $$$$$$\  $$$$$$$\     $$$$$\ ')
+print('$$ |      $$  _____|$$  __$$\ $$  __$$\    \__$$ |')
+print('$$ |      $$ |      $$ /  \__|$$ |  $$ |      $$ |')
+print('$$ |      $$$$$\    \$$$$$$\  $$ |  $$ |      $$ |')
+print('$$ |      $$  __|    \____$$\ $$ |  $$ |$$\   $$ |')
+print('$$ |      $$ |      $$\   $$ |$$ |  $$ |$$ |  $$ |')
+print('$$$$$$$$\ $$$$$$$$\ \$$$$$$  |$$$$$$$  |\$$$$$$  |')
+print('\________|\________| \______/ \_______/  \______/ ')
 
-print("YelpBot: Hi there, I am YelpBot")
-name =  raw_input("YelpBot: What is your name?")
-print"YelpBot: Hey", name 
+# print("YelpBot: Hi there, I am YelpBot")
+# name =  raw_input("YelpBot: What is your name?")
+# print"YelpBot: Hey", name 
 
-food = raw_input('YelpBot: What are you craving?')
-zipcode = raw_input('YelpBot: What is your Zip Code?')
+query = raw_input('YelpBot: What are you craving?')
+# zipcode = raw_input('YelpBot: What is your Zip Code?')
 print  "YelpBot: Got it. Please wait..."
 
 #PhantomJS
-driver = webdriver.PhantomJS(executable_path='/Users/lcruz/Desktop/phantomjs')
-driver.get('http://www.yelp.com')
-driver.find_element_by_id("find_desc").clear()
-driver.find_element_by_id("find_desc").send_keys(food)
-print("searching places for ...") + food 
-driver.find_element_by_id("dropperText_Mast").clear()
-driver.find_element_by_id("dropperText_Mast").send_keys(zipcode)
-print ("around...") + zipcode
+driver = webdriver.PhantomJS(executable_path='/Users/peverman/Desktop/phantomjs/bin/phantomjs')
+driver.get('http://www.skatevideosite.com/soundtracks')
+driver.find_element_by_name("searchterm").clear()
+driver.find_element_by_name("searchterm").send_keys(query)
+driver.find_element_by_name("submit").click()
+print("searching matches for ...") + query 
+driver.find_element_by_css_selector(".skatevideo .blacktitle").click()
+print("made it this far")
+output = driver.find_element_by_id("soundtracklist")
+print output
 driver.find_element_by_id("header-search-submit").click()
 #BeautifulSoup
 url = driver.current_url 
@@ -48,4 +58,4 @@ for address in soup.find_all("address"):
 
 
 
-print('YelpBot: Have a good time!') + name 
+# print('YelpBot: Have a good time!') + name 
