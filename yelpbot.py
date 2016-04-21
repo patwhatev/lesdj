@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from __future__ import print_function
 from selenium import webdriver
 import requests
 from bs4 import BeautifulSoup
@@ -30,33 +31,34 @@ driver = webdriver.PhantomJS(executable_path='/Users/peverman/Desktop/phantomjs/
 driver.get('http://www.skatevideosite.com/soundtracks')
 driver.find_element_by_name("searchterm").clear()
 driver.find_element_by_name("searchterm").send_keys(query)
-print("Searching For: ") + query
+print("Searching For: "+ query)
 driver.find_element_by_css_selector('input[name="submit"]').click()
 print("started search . . .")
 results = driver.find_elements_by_css_selector('.skatevideo a')
 for result in results[::3]:
     url = result.get_attribute("href")
     if 'soundtrack' in url: 
-    	print(url)
+    	print("storing " + url)
+    	with open("urls.py", "a") as myfile:
+    		myfile.write('"'+ url + '",\n')
 
-#BeautifulSoup
-url = driver.current_url 
-r = requests.get(url)
-soup = BeautifulSoup(r.content)
-soup.find_all("a",{"class","biz-name"})
-print "YelpBot: Here are some nearby places to eat " + food 
-print("==========================================================")
 
-#Business Name
-for business in soup.find_all("a",{"class","biz-name"}):
-	bizname = business.get_text()
-	print bizname
+# #BeautifulSoup
+# url = driver.current_url 
+# r = requests.get(url)
+# soup = BeautifulSoup(r.content)
+# soup.find_all("a",{"class","biz-name"})
+
+# #Business Name
+# for business in soup.find_all("a",{"class","biz-name"}):
+# 	bizname = business.get_text()
+# 	print bizname
 	
-#Address
-soup.find_all("address","biz-name")
-for address in soup.find_all("address"):
-	location = address.get_text()
-	print location
+# #Address
+# soup.find_all("address","biz-name")
+# for address in soup.find_all("address"):
+# 	location = address.get_text()
+# 	print location
 
 
 
