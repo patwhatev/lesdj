@@ -2,8 +2,10 @@
 from __future__ import print_function
 from selenium import webdriver
 import requests
+import random
 from bs4 import BeautifulSoup
 import os
+import re
 import urls
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -25,6 +27,7 @@ print("ITE MAN I GOT U")
 
 #First, call a url from URLs
 #Log the video title 
+#(Take the URL and use regex to clean it up)
 #Fetch the table, pull a random row 
 #Clean the text for querying, store artist/songName
 #Query and store a link for each track
@@ -33,16 +36,21 @@ print("ITE MAN I GOT U")
 
 #PhantomJS
 driver = webdriver.PhantomJS(executable_path='/Users/patwhatev/Desktop/phantomjs/bin/phantomjs')
-driver.get(urls.urlArr[1])
-print("heading to:" + urls.urlArr[1])
-#BeautifulSoup
-url = driver.current_url 
-r = requests.get(url)
-soup = BeautifulSoup(r.content, "html.parser")
-soup.find_all("td")
+#Generate 25 random URLs 
+rand_urls = random.sample(urls.urlArr, 25)
+print(rand_urls)
+for i in range(0, 24):
+	driver.get(rand_urls[i])
+	print("heading to:" + rand_urls[i])
+	url = driver.current_url 
+	r = requests.get(url)
+	soup = BeautifulSoup(r.content, "html.parser")
 
-#Business Name
-for business in soup.find_all("td"):
-	bizname = business.get_text()
-	print(bizname)
-	
+	for webpage in soup.find_all("td"):
+		pageText = webpage.get_text()
+		arr = ["1","2","3","4","5"]
+		if "-" in pageText and any(x not in pageText for x in arr):
+			print(pageText)
+
+#BeautifulSoup
+

@@ -1,5 +1,21 @@
-[INFO  - 2016-04-22T19:09:11.026Z] GhostDriver - Main - running on port 58710
-[INFO  - 2016-04-22T19:09:11.106Z] Session [b2160ed0-08bd-11e6-98cf-215f4e9020a3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2016-04-22T19:09:11.106Z] Session [b2160ed0-08bd-11e6-98cf-215f4e9020a3] - page.customHeaders:  - {}
-[INFO  - 2016-04-22T19:09:11.106Z] Session [b2160ed0-08bd-11e6-98cf-215f4e9020a3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2016-04-22T19:09:11.106Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b2160ed0-08bd-11e6-98cf-215f4e9020a3
+[INFO  - 2016-04-23T17:39:54.972Z] GhostDriver - Main - running on port 65396
+[INFO  - 2016-04-23T17:39:55.692Z] Session [646c7b70-097a-11e6-92fe-f99c1312c9eb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-04-23T17:39:55.692Z] Session [646c7b70-097a-11e6-92fe-f99c1312c9eb] - page.customHeaders:  - {}
+[INFO  - 2016-04-23T17:39:55.692Z] Session [646c7b70-097a-11e6-92fe-f99c1312c9eb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-04-23T17:39:55.692Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 646c7b70-097a-11e6-92fe-f99c1312c9eb
+[ERROR - 2016-04-23T17:39:59.986Z] Session [646c7b70-097a-11e6-92fe-f99c1312c9eb] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'S.canPlayType(n)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-04-23T17:39:59.986Z] Session [646c7b70-097a-11e6-92fe-f99c1312c9eb] - page.onError - stack:
+  get (https://f.vimeocdn.com/p/2.24.2/js/player.js:8)
+  get (https://f.vimeocdn.com/p/2.24.2/js/player.js:8)
+  value (https://f.vimeocdn.com/p/2.24.2/js/player.js:11)
+  value (https://f.vimeocdn.com/p/2.24.2/js/player.js:11)
+  set (https://f.vimeocdn.com/p/2.24.2/js/player.js:11)
+  G (https://f.vimeocdn.com/p/2.24.2/js/player.js:12)
+  a (https://f.vimeocdn.com/p/2.24.2/js/player.js:12)
+  X (https://f.vimeocdn.com/p/2.24.2/js/player.js:2)
+  U (https://f.vimeocdn.com/p/2.24.2/js/player.js:2[INFO  - 2016-04-23T17:40:35.936Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+://player.vimeo.com/video/139118451:1)
+
+  phantomjs://platform/console++.js:263 in error
