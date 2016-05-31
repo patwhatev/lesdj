@@ -1,12 +1,27 @@
-[INFO  - 2016-05-31T17:46:04.854Z] GhostDriver - Main - running on port 53082
-[INFO  - 2016-05-31T17:46:05.262Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2016-05-31T17:46:05.262Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.customHeaders:  - {}
-[INFO  - 2016-05-31T17:46:05.262Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2016-05-31T17:46:05.262Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8c66bc80-2757-11e6-9d7e-57efec54ac93
-[ERROR - 2016-05-31T17:46:26.814Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
+[INFO  - 2016-05-31T19:46:52.039Z] GhostDriver - Main - running on port 56494
+[INFO  - 2016-05-31T19:46:52.368Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-05-31T19:46:52.368Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.customHeaders:  - {}
+[INFO  - 2016-05-31T19:46:52.369Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-05-31T19:46:52.369Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6bfdb550-2768-11e6-885f-13383749d308
+[INFO  - 2016-05-31T19:47:53.465Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T19:52:53.458Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T19:57:53.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T20:02:53.444Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+.js:11)
+  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
+  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
+  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
+  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
+  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
+  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
+  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
+  (anonymous function) (https://player.vimeo.com/video/107649815:1)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:26.814Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
+[ERROR - 2016-05-31T19:48:23.967Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-05-31T19:48:24.035Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - stack:
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
@@ -18,13 +33,13 @@
   z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/54809129:1)
+  (anonymous function) (https://player.vimeo.com/video/411217:1)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:36.584Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
+[ERROR - 2016-05-31T19:48:26.270Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:36.584Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
+[ERROR - 2016-05-31T19:48:26.270Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - stack:
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
@@ -36,13 +51,13 @@
   z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/25360991:1)
+  (anonymous function) (https://player.vimeo.com/video/34623044:1)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:38.708Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
+[ERROR - 2016-05-31T19:48:52.192Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:38.708Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
+[ERROR - 2016-05-31T19:48:52.236Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - stack:
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
@@ -54,13 +69,13 @@
   z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/70989311:1)
+  (anonymous function) (https://player.vimeo.com/video/8906841:1)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:40.871Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
+[ERROR - 2016-05-31T19:49:15.121Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:40.871Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
+[ERROR - 2016-05-31T19:49:15.122Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - stack:
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
@@ -72,13 +87,26 @@
   z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/17496964:1)
+  (anonymous function) (https://player.vimeo.com/video/47735307:1)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:48.812Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
+[ERROR - 2016-05-31T19:49:40.446Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:48.812Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
+[ERROR - 2016-05-31T19:49:40.447Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - stack:
+  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
+  get (https://f.vimeocdn.c[INFO  - 2016-05-31T19:52:21.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T19:57:21.497Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T20:02:21.490Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
+  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
+  (anonymous function) (https://player.vimeo.com/video/19863038:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-05-31T19:49:43.322Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-05-31T19:49:43.322Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - stack:
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
   value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
@@ -90,386 +118,9 @@
   z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/90318156:1)
+  (anonymous function) (https://player.vimeo.com/video/18089410:1)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:53.591Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:53.591Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/79036942:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:59.420Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:46:59.420Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/20130404:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:02.191Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:02.191Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/9393935:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:10.519Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:10.519Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/8952684:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:15.053Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:15.053Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/81366361:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:17.970Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:17.970Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/35961619:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:23.802Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:23.802Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/14098479:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:31.848Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:31.848Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/7640196:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:36.864Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:36.864Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/148626418:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:38.503Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:47:38.503Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/46721892:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:07.542Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:07.542Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/66888998:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:20.295Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:20.295Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/122120222:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:22.344Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:22.345Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/33010667:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:28.451Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:28.451Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/1238241:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:33.595Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:33.595Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onErro[INFO  - 2016-05-31T17:52:32.977Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:57:32.972Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:02:32.967Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:07:32.967Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:12:32.961Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:17:32.957Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:22:32.951Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:27:32.945Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:32:32.939Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:37:32.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:42:32.928Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-//f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/80537564:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:37.931Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:37.931Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/12777737:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:43.935Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2016-05-31T17:48:43.936Z] Session [8c66bc80-2757-11e6-9d7e-57efec54ac93] - page.onError - stack:
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  get (https://f.vimeocdn.com/p/2.25.5/js/player.js:8)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  value (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/45487749:1)
-
-  phantomjs://platform/console++.js:263 in error
-[INFO  - 2016-05-31T17:51:04.850Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:56:04.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:01:04.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:06:04.838Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:11:04.833Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:16:04.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:21:04.823Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:26:04.818Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:31:04.815Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:36:04.810Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:41:04.804Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:46:04.798Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            [INFO  - 2016-05-31T17:50:49.606Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:55:49.600Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:00:49.594Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:05:49.588Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:10:49.584Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:15:49.578Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:20:49.572Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:25:49.568Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:30:49.562Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:35:49.556Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:40:49.550Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:45:49.544Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            [INFO  - 2016-05-31T17:48:46.454Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:53:46.448Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:58:46.442Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:03:46.436Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:08:46.430Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:13:46.428Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:18:46.423Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:23:46.418Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:28:46.413Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:33:46.410Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:38:46.404Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:43:46.401Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              [INFO  - 2016-05-31T17:50:17.811Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:55:17.805Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:00:17.802Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:05:17.796Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:10:17.793Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:15:17.787Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:20:17.782Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:25:17.778Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:30:17.775Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:35:17.768Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:40:17.762Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:45:17.756Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            [INFO  - 2016-05-31T17:49:46.906Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:54:46.900Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:59:46.894Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:04:46.890Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:09:46.888Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:14:46.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:19:46.883Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:24:46.877Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:29:46.873Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:34:46.873Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:39:46.867Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:44:46.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 [INFO  - 2016-05-31T17:46:24.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:51:24.867Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T17:56:24.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:01:24.858Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:06:24.853Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:11:24.848Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:16:24.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:21:24.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:26:24.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:31:24.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:36:24.822Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2016-05-31T18:41:24.816Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T19:51:52.026Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T19:56:52.019Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T20:01:52.012Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

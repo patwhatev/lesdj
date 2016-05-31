@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import os
 import re
 import urls
-from urls import urlArr
+from core_urls import urlArr
 import videoparts
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -34,7 +34,7 @@ rand_urls = random.sample(urls.urlArr, 25)
 print("\nGathering urls. . . \n")
 playlist = []
 
-for i in range(2244, 2355):
+for i in range(197, 2355):
 	soundtrack = []
 	print("heading to: " + urlArr[i])
 	driver.get(urlArr[i])
