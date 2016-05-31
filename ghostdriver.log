@@ -7,10 +7,8 @@
 [INFO  - 2016-05-31T19:52:53.458Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-05-31T19:57:53.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-05-31T20:02:53.444Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-.js:11)
-  set (https://f.vimeocdn.com/p/2.25.5/js/player.js:11)
-  G (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
-  a (https://f.vimeocdn.com/p/2.25.5/js/player.js:12)
+[INFO  - 2016-05-31T20:07:53.438Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+cdn.com/p/2.25.5/js/player.js:12)
   X (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   z (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
   me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
@@ -98,9 +96,8 @@
   get (https://f.vimeocdn.c[INFO  - 2016-05-31T19:52:21.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-05-31T19:57:21.497Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-05-31T20:02:21.490Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-  me (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  o (https://f.vimeocdn.com/p/2.25.5/js/player.js:2)
-  (anonymous function) (https://player.vimeo.com/video/19863038:1)
+[INFO  - 2016-05-31T20:07:21.483Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+/player.vimeo.com/video/19863038:1)
 
   phantomjs://platform/console++.js:263 in error
 [ERROR - 2016-05-31T19:49:43.322Z] Session [6bfdb550-2768-11e6-885f-13383749d308] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'T.canPlayType(n)')
@@ -124,3 +121,4 @@
 [INFO  - 2016-05-31T19:51:52.026Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-05-31T19:56:52.019Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2016-05-31T20:01:52.012Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-31T20:06:52.006Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

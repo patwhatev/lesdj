@@ -30,7 +30,9 @@ videoParts = [
 		['Costa Rica', 'Gimnasia Villa Olimpica Demo', 'Jaco Y Paco'], 
 		['Costa Rica', 'Chepesent Skatepark', 'Atomic Drop'], 
 		['Costa Rica', 'Monteverde', 'Caipirinha'], 
-		['Credits', 'Terranova', 'Chase the Blues (remix)']]],
+		['Credits', 'Terranova', 'Chase the Blues (remix)']
+		]
+	],
 
 	['411vm around the world 2', 
 		[
@@ -55,7 +57,9 @@ videoParts = [
 		['Poland #2', 'Beehive & The Barracudas', '7:47'], 
 		['Poland #3', 'DJ Egadz', 'Eclectric Fusion'], 
 		['Poland #4', 'Ilya', 'Isola'], 
-		['credits', 'Quantic', 'Apricot Morning']]],
+		['credits', 'Quantic', 'Apricot Morning']
+		]
+	],
 
 	['411vm australian vacation', 
 		[
@@ -77,7 +81,9 @@ videoParts = [
 		['credits', 'Thievery Corporation', 'The Foundation (th)'], 
 		['Melbourne', 'Bantha Fodder', 'Amphetamarines'], 
 		['Lismare', 'Front End Loader', 'Pulse'], 
-		['Level 2', 'Bow Hard', 'Big One']]],
+		['Level 2', 'Bow Hard', 'Big One']
+		]
+	],
 
 	['411vm best of 1', 
 		[
@@ -98,7 +104,9 @@ videoParts = [
 		['Max Schaaf Wheels Of Fortune', 'Rpm', 'rhythm'], 
 		['Jeron Wilson Wheels Of Fortune', 'Gang Starr', 'Illest Brother'], 
 		['Jeremy Wray Profiles', 'Corduroy', 'High Havoc'], 
-		['credits', 'Boys Choir Of Harlem', 'Amazing Grace']]],
+		['credits', 'Boys Choir Of Harlem', 'Amazing Grace']
+		]
+	],
 
 	['411vm best of 2', 
 		[
@@ -115,7 +123,9 @@ videoParts = [
 		['Drake Jones Wheels Of Fortune', 'Mcm And The Monster', 'Big Black Cadillac'], 
 		['Transitions Transitions', 'Ramones', "I Don't Wanna Grow Up"], 
 		['Moses Itkonen Rookies', 'Mobb Deep', 'Cradle To The Grave'], 
-		['Ed Templeton Profiles', 'Fluf', 'Rooked']]],
+		['Ed Templeton Profiles', 'Fluf', 'Rooked']
+		]
+	],
 
 	['411vm best of 3', 
 		[
@@ -131,7 +141,9 @@ videoParts = [
 		['Mike Crum Profiles', 'Butthole Surfers', 'Golden Showers'], 
 		['Ryan Bartsma Wheels Of Fortune', 'Mobb Deep', 'Give Up The Goods (just Step)'], 
 		['Chaos Chaos', 'Guru', 'Feel The Music'], 
-		['Gershon Mosley Profiles', 'Jamiroquai', 'Half The Man']]],
+		['Gershon Mosley Profiles', 'Jamiroquai', 'Half The Man']
+		]
+	],
 
 	['411vm best of 4', 
 		[
@@ -149,7 +161,9 @@ videoParts = [
 		['Brad Hayes Rookies', 'Lynyrd Skynyrd', 'Poison Whiskey'], 
 		['Contests Contests', 'Jamiroquai', 'Virtual Insanity'], 
 		['Rodney Mullen / Daewon Song Profiles', 'The Dixie Hummingbirds', 'If Anybody Asks You'], 
-		['Rodney Mullen / Daewon Song Profiles', 'Epmd', 'Never Seen Before']]],
+		['Rodney Mullen / Daewon Song Profiles', 'Epmd', 'Never Seen Before']
+		]
+	],
 
 	['411vm best of 5', 
 		[
@@ -165,7 +179,9 @@ videoParts = [
 		['Tum Yeto Canada Road Trip', 'Minor Threat', 'Look Back And Laugh'], 
 		['Anthony Van Engelen Wheels Of Fortune', '12 Jewelz', 'Clash Of The Continents'], 
 		['Plan B Industry', 'Primus', 'Tommy The Cat'], 
-		['credits', 'Supple', "Stayin' Alive"]]],
+		['credits', 'Supple', "Stayin' Alive"]
+		]
+	],
 
 	['411vm best of 6', 
 		[
@@ -187,7 +203,9 @@ videoParts = [
 		['Chad Bartie Rookies', 'Vast', 'Here'], 
 		['Geoff Rowley Profiles', 'Dag Nasty', 'Under Your Influence'], 
 		['Geoff Rowley Profiles', 'Stiff Little Fingers', 'At The Edge'], 
-		['credits', 'The Wiseguys', 'Start The Commotion']]],
+		['credits', 'The Wiseguys', 'Start The Commotion']
+		]
+	],
 
 	['411vm best of 7', 
 		[
@@ -205,7 +223,9 @@ videoParts = [
 		['Colt Cannon Wheels Of Fortune', 'Mystik Journeymen', 'Araingus'], 
 		['Chaos Chaos', 'Tony Stark', 'Trailer'], 
 		['Alex Trainwreck Gall Wheels Of Fortune', 'Naked Raygun', 'I Will Never Follow'], 
-		['credits', 'Mos Def', 'december']]],
+		['credits', 'Mos Def', 'december']
+		]
+	],
 
 	['411vm best of 8', 
 		[
@@ -221,7 +241,9 @@ videoParts = [
 		['Tosh Townend Wheels Of Fortune', 'The Enkindels', 'December By Change'], 
 		['Stussy London Road Trip', 'The Nextman', 'Break The Mould (feat. Grap Luva)'], 
 		['Chad Tim Tim Wheels Of Fortune #1', 'Euphone', 'Do You Up'], 
-		['Chad Tim Tim Wheels Of Fortune #2', 'Hip Hop For Respect', 'One For Love (instrumental)']]],
+		['Chad Tim Tim Wheels Of Fortune #2', 'Hip Hop For Respect', 'One For Love (instrumental)']
+		]
+	],
 
 	['411vm best of 9', 
 		[
@@ -236,7 +258,9 @@ videoParts = [
 		['Day In The Life', 'Bob Burnquist', 'Summer in Santa Fe'], 
 		['Road Trip', 'Clich\xc3\xa9 in Spain', 'Cliche Beat Numero Un (feat. Alanna Jordan)'], 
 		['Road Trip', 'The Firm and friends', 'Rhythm of the Heart'], 
-		['credits', 'Ursula 1000', 'Mucho Tequila']]],
+		['credits', 'Ursula 1000', 'Mucho Tequila']
+		]
+	],
 
 	['411vm brazilian vacation', 
 		[
@@ -258,7 +282,9 @@ videoParts = [
 		['Demo With Pink Floor', 'Dub Pistols', 'Best Got Better'], 
 		['Bueno Aires', 'Jets To Brazil', 'Conrad'], 
 		['Sao Paulo Street Action', 'Homenagon A Mongo', 'Som Tres'], 
-		['credits', 'Berimbau', 'Mandrake Som']]],
+		['credits', 'Berimbau', 'Mandrake Som']
+		]
+	],
 
 	['411vm cinema board buddy', 
 		[
@@ -275,7 +301,9 @@ videoParts = [
 		['Strung Out', 'Cemetary', 'Cemetary'], 
 		['The Lawrence Arms', 'Porno And Snuff Films', 'Porno And Snuff Films'], 
 		['Converge', 'Concubine/Fault And Fracture', 'Concubine/Fault And Fracture'], 
-		['Shadows Fall', 'Thoughts Without Worlds', 'Thoughts Without Worlds']]],
+		['Shadows Fall', 'Thoughts Without Worlds', 'Thoughts Without Worlds']
+		]
+	],
 
 	['411vm comin in hot', 
 		[
@@ -289,7 +317,9 @@ videoParts = [
 		['Yellow Montage #1', 'Fucktown Power Boys & No No', 'Everyone Peg Your Jeans'], 
 		['Yellow Montage #2', 'Volume All Star', 'What Are Fairgrounds For'], 
 		['Micah Hollinger', 'Nancy Sinatra & Lee Hazzlewood', 'Summer Wine'], 
-		['Credits', 'Katrah Quey', 'System']]],
+		['Credits', 'Katrah Quey', 'System']
+		]
+	],
 
 	['411vm europe 1995', 
 		[
@@ -304,7 +334,9 @@ videoParts = [
 		['Munster Street Finals #3', 'Sinkhole', 'Tumble Mat'], 
 		['Munster Vert Practice', 'Shrinking Violets', 'Take Me Home'], 
 		['Munster Vert Finals', 'Mobb Deep', 'Shook Ones Pt. 2'], 
-		['Switzerland', 'Grither', 'One Piece Missing']]],
+		['Switzerland', 'Grither', 'One Piece Missing']
+		]
+	],
 
 	['411vm europe 1996', 
 		[
@@ -320,7 +352,9 @@ videoParts = [
 		['Amsterdam to Munster', 'Money Mark', 'Functions'], 
 		['Lausanne Street Finals #1', 'Combine', 'All Tore Up'], 
 		['Lausanne Street Finals #2', 'Combine', 'Grommet'], 
-		['credits', 'JK Novak and Comp', 'Ace in the Hole']]],
+		['credits', 'JK Novak and Comp', 'Ace in the Hole']
+		]
+	],
 
 	['411vm europe 1997', 
 		[
@@ -335,7 +369,9 @@ videoParts = [
 		['Street Skating', 'Tanner', 'Purma Pak'], 
 		['London Vert Finals', 'Engine 88', 'Des Moines'], 
 		['Prague Pro Mini Ramp', 'Missy Misdemeanor Elliot', 'Rain (Supa Dupa Fly)'], 
-		['credits', 'Luscious Jackson', 'Water Your Garden']]],
+		['credits', 'Luscious Jackson', 'Water Your Garden']
+		]
+	],
 
 	['411vm europe 1998', 
 		[
@@ -353,7 +389,9 @@ videoParts = [
 		['Munster Vert Finals #1', 'The Giant', 'Hidden Crate'], 
 		['Munster Vert Finals #2', '12 Jewelz', 'Da Game'], 
 		['Munster Street Finals', 'Ill Repute', 'American Girl'], 
-		['credits', 'Ollin', 'La Bruja']]],
+		['credits', 'Ollin', 'La Bruja']
+		]
+	],
 
 	['411vm europe 1999', 
 		[
@@ -369,7 +407,9 @@ videoParts = [
 		['Vert Finals', 'Fugazi', '23 Beats Off'], 
 		['Prague Street Finals', 'Styles of Beyond', 'Spies Like Us'], 
 		['credits #1', 'Eighty Mile Beach', 'There Are No Right Angles Found in Nature'], 
-		['credits #2', 'Dance Hall Crashers', 'Remember to Breathe']]],
+		['credits #2', 'Dance Hall Crashers', 'Remember to Breathe']
+		]
+	],
 
 	['411vm europe 2000', 
 		[
@@ -384,7 +424,9 @@ videoParts = [
 		['Dortmund Street Practice/ Vert Finals', 'Boom Bip & Doseone', 'Fence Hopping'], 
 		['Dortmund Street Finals', 'Turing Machine', 'The Doodler'], 
 		['Dortmund Best Trick', 'William Orbit', 'In A Landscape'], 
-		['credits', 'The Get Up Kids', 'Valentine']]],
+		['credits', 'The Get Up Kids', 'Valentine']
+		]
+	],
 
 	['411vm europe 2001', 
 		[
@@ -411,7 +453,9 @@ videoParts = [
 		['Spain Street Skating', 'Mig+Fs Meet DJ Rock', 'Locus'], 
 		['Holland Street Skating', 'Murs', 'Track 14'], 
 		['Prague Street Contest', 'Hummmr', 'When'], 
-		['credits', 'Seafood', 'Dear Leap the Rid']]],
+		['credits', 'Seafood', 'Dear Leap the Rid']
+		]
+	],
 
 	['411vm europe 2003', 
 		[
@@ -428,7 +472,9 @@ videoParts = [
 		['bonus', 'Scandinavia Open Vert', 'Red Paint'], 
 		['bonus', 'Running of the Haney #1', 'How Nothing Feels'], 
 		['bonus', 'Running of the Haney #2', 'Run Through'], 
-		['bonus', 'Photo Gallery', 'In Memorium']]],
+		['bonus', 'Photo Gallery', 'In Memorium']
+		]
+	],
 
 	['411vm hot dogs on wheels', 
 		[
@@ -438,7 +484,9 @@ videoParts = [
 		['Alex Carolino', 'DJ Zeph', 'The Get Down'], 
 		['Bueno Dance Party', 'The Sounds', 'Hit Me!'], 
 		['Nick McLouth', 'of Montreal', 'Keep Sending Me Black Fireworks'], 
-		['credits', 'DJ Frame', 'I Can Do My Thang']]],
+		['credits', 'DJ Frame', 'I Can Do My Thang']
+		]
+	],
 
 	['411vm issue 1', 
 		[
@@ -454,7 +502,9 @@ videoParts = [
 		['Playground Skatepark Street And Vert Contests', 'Funky Beatniks', 'Morning Void'], 
 		['Chaos', '3% Fat', 'Causin Chaos'], 
 		['Chaos', 'Supreme Love Gods', 'Fire'], 
-		['Grapevine', 'Gibb Droll', 'Unfaithful Woman']]],
+		['Grapevine', 'Gibb Droll', 'Unfaithful Woman']
+		]
+	],
 
 	['411vm issue 10', 
 		[
@@ -474,7 +524,9 @@ videoParts = [
 		['Radlands Vert Contests', 'Ramones', 'Have A Nice Day'], 
 		['Chaos Chaos', 'Rhythm Collision', 'Now'], 
 		['Switchstance Switchstance', 'Combine', 'Ephidrene'], 
-		['Credits', 'Bad Religion', 'Atomic Garden']]],
+		['Credits', 'Bad Religion', 'Atomic Garden']
+		]
+	],
 
 	['411vm issue 11', 
 		[
@@ -491,7 +543,9 @@ videoParts = [
 		['Warped Tour Transitions', 'Face To Face', 'Disconnected'], 
 		['Warped Tour Transitions', 'Madness', 'Madness'], 
 		['Switchstance Switchstance', 'Rhythm Collision', 'I Should Have Known'], 
-		['credits', 'Guru', 'Sights In The City']]],
+		['credits', 'Guru', 'Sights In The City']
+		]
+	],
 
 	['411vm issue 12', 
 		[
@@ -506,7 +560,9 @@ videoParts = [
 		['Planet Earth / Rhythm In Vancouver Road Trip', 'Fretblanket', 'Big Fat Ugly'], 
 		['Slam City Jam 2 Vert Contests', 'Man Will Surrender', 'Silent Pain'], 
 		['Santa Rosa Skatepark Contests', 'Rhythm Collision', 'Pictures On My Wall'], 
-		['credits', 'Mobb Deep', 'Right Back At You']]],
+		['credits', 'Mobb Deep', 'Right Back At You']
+		]
+	],
 
 	['411vm issue 13', 
 		[
@@ -526,7 +582,9 @@ videoParts = [
 		['Radlands Vert Contests', 'Ramones', 'Have A Nice Day'], 
 		['Chaos Chaos', 'Illrepute', 'Dat Marley Song'], 
 		['Switchstance Switchstance', 'Combine', 'Ephidrene'], 
-		['credits', 'Bad Religion', 'Atomic Garden']]],
+		['credits', 'Bad Religion', 'Atomic Garden']
+		]
+	],
 
 	['411vm issue 14', 
 		[
@@ -539,7 +597,9 @@ videoParts = [
 		['Hard Rock Cafe Vert Contests', 'Schleprock', 'Sorry'], 
 		['Planet Earth / Rhythm Road Trip', 'Brooklyn Funk Essentials', 'Blow Your Brains Out'], 
 		['Invisible Road Trip', 'Norman Greenbaum', 'Spirit In The Sky'], 
-		['Tour', 'Kill Holiday', 'Could Shoulder']]],
+		['Tour', 'Kill Holiday', 'Could Shoulder']
+		]
+	],
 
 	['411vm issue 15', 
 		[
@@ -556,7 +616,9 @@ videoParts = [
 		['Tampa Am Contests', 'Pennywise', 'Unknown Road'], 
 		['Southside Skatepark Spot Check', 'Squirtgun', 'Social'], 
 		['Japan, Switzerland, France World Report', 'Down By Law', 'Heroes And Hooligans'], 
-		['Board Aid 3 Transitions', 'Radiohead', 'High And Dry']]],
+		['Board Aid 3 Transitions', 'Radiohead', 'High And Dry']
+		]
+	],
 
 	['411vm issue 16', 
 		[
@@ -567,7 +629,9 @@ videoParts = [
 		['Danny Montoya Wheels Of Fortune', 'Attica Blues', 'Contemplating Jazz'], 
 		['Skatepark Of Tampa Contests', 'Butthole Surfers', 'Revolution 2'], 
 		['Nc Skate Shop Industry', 'Greyboy', 'Parkside Bounce'], 
-		['Trabuco Hills High School Spot Check', 'Live', 'I Alone']]],
+		['Trabuco Hills High School Spot Check', 'Live', 'I Alone']
+		]
+	],
 
 	['411vm issue 17', 
 		[
@@ -581,7 +645,9 @@ videoParts = [
 		['Vancouver Vert Contest Contests', 'Schleprock', 'Waiting'], 
 		['Hard Rock Vert Contest Contests', 'Foo Fighters', 'Winnebago'], 
 		['Alien Workshop Road Trip', 'NOFX', 'The Death Of John Smith'], 
-		['Transitions Transitions', 'Goldfinger', 'Minds Eye']]],
+		['Transitions Transitions', 'Goldfinger', 'Minds Eye']
+		]
+	],
 
 	['411vm issue 18', 
 		[
@@ -592,7 +658,9 @@ videoParts = [
 		['Venice Street Grind Contests', 'Live', 'All Over You'], 
 		['Supreme Skateshop Industry', 'Money Mark', 'Sunday Gardena Blvd.'], 
 		['Supreme Skateshop Industry', 'Money Mark', 'Sometimes You Gotta'], 
-		['Paris Metrospective', 'Xzibit', 'Paparazzi']]],
+		['Paris Metrospective', 'Xzibit', 'Paparazzi']
+		]
+	],
 
 	['411vm issue 19', 
 		[
@@ -604,7 +672,9 @@ videoParts = [
 		['Monster Mash Missile Park Contests', 'NOFX', 'Kill All The White Man'], 
 		['Supernaut Industry', 'Duane Pitre, Mario Rubalcaba, Danny Power', 'Duane Pitre, Mario Rubalcaba, Danny Power'], 
 		['Pier 7 Spot Check', 'Mobb Deep', 'Extortion'], 
-		['credits', '99 Tales', 'Thursday']]],
+		['credits', '99 Tales', 'Thursday']
+		]
+	],
 
 	['411vm issue 2', 
 		[
@@ -625,7 +695,9 @@ videoParts = [
 		['Australia, Japan, Holland, Italy, New Zealand,\nEngland World Report', 'Bad Religion', 'I Want To Conquer The World'], 
 		['Australia, Japan, Holland, Italy, New Zealand,\nEngland World Report', 'Bad Religion', 'Sanity'], 
 		['Transitions Transitions', 'The Offspring', 'Take It Like A Man'], 
-		['Rad Lands/Northhampton Skatepark Contests', "Jacob's Mouse", 'Solo']]],
+		['Rad Lands/Northhampton Skatepark Contests', "Jacob's Mouse", 'Solo']
+		]
+	],
 
 	['411vm issue 20', 
 		[
@@ -638,7 +710,9 @@ videoParts = [
 		['Transitions Transitions', 'Supernova', 'Calling Hong Kong'], 
 		['Sad Rookies', 'House Of Pain', 'Fed Up'], 
 		['Think / Adrenalin / Nhs Road Trip', 'Al Tariq', 'Peace Akki'], 
-		['World / Plan B Road Trip', 'Replicants', 'Cinnamon Girl']]],
+		['World / Plan B Road Trip', 'Replicants', 'Cinnamon Girl']
+		]
+	],
 
 	['411vm issue 21', 
 		[
@@ -653,7 +727,9 @@ videoParts = [
 		['Long Beach Metrospective', 'Dove Shack', 'Summertime In The Lbc'], 
 		['Surf Plus Industry', 'Mother Earth', 'Warlocks Of The Mind Part 2'], 
 		['Switchstance Switchstance', 'Angel Baby', 'Jeanette Jurado'], 
-		['credits', 'Everclear', 'Fire Maple Song (acoustic)']]],
+		['credits', 'Everclear', 'Fire Maple Song (acoustic)']
+		]
+	],
 
 	['411vm issue 22', 
 		[
@@ -667,7 +743,9 @@ videoParts = [
 		['Brad Hayes Rookies', 'Jamiroquai', 'Alright'], 
 		['Paul Shier Rookies', 'Mephisto Odyssey', 'Dream Of The Black Dahlia'], 
 		['World Market Industry', 'Russell Goodwine Jr', 'Out Of Order'], 
-		['credits', 'Fiona Apple', 'Sleep To Dream']]],
+		['credits', 'Fiona Apple', 'Sleep To Dream']
+		]
+	],
 
 	['411vm issue 23', 
 		[
@@ -682,7 +760,9 @@ videoParts = [
 		['Chad Fernandez Rookies', 'Gang Starr', 'Mass Appeal'], 
 		['Toy Machine Road Trip', 'Pantera', 'Cowboys From Hell'], 
 		['Transitions Transitions', 'Jungle Brothers', "Jungle Brother (Stereo MC's remix)"], 
-		['credits', 'Smut Peddlers', 'Get Of The Phone']]],
+		['credits', 'Smut Peddlers', 'Get Of The Phone']
+		]
+	],
 
 	['411vm issue 24', 
 		[
@@ -698,7 +778,9 @@ videoParts = [
 		['Unity Road Trip', 'Dr Octagon', 'Halfsharkalligatorhalfman'], 
 		['Switchstance Switchstance', 'Mephisto Odyssey', 'Get Down (bass Kittens Mix)'], 
 		['Dc Supertour Road Trip', 'Goldie', 'Jah The Seventh Seal'], 
-		['Vans Generation 97 Street And Vert Contests', 'Seven Story Mountain', 'Fall']]],
+		['Vans Generation 97 Street And Vert Contests', 'Seven Story Mountain', 'Fall']
+		]
+	],
 
 	['411vm issue 25', 
 		[
@@ -711,7 +793,9 @@ videoParts = [
 		['Tum Yeto Road Trip', 'The Faction', 'Tenabrae'], 
 		['Duffs Road Trip', 'Supple', 'Stayin Alive'], 
 		['Stereo Industry', 'Gifthorse', 'Backseat Opera'], 
-		['Becker Skate Shop Industry', 'Freestyle Fellowship', '7th Seal']]],
+		['Becker Skate Shop Industry', 'Freestyle Fellowship', '7th Seal']
+		]
+	],
 
 	['411vm issue 26', 
 		[
@@ -726,7 +810,9 @@ videoParts = [
 		['Danny Shimizu / Danny Butanda Wheels Of Fortune', 'Gorgeous', 'Next Big Thing'], 
 		['Burnside Spot Check', 'Fu Manchu', 'Scott Bourne Rookies'], 
 		['Slint', '#1', '#1'], 
-		['credits', 'Dance Hall Crashers', 'Stand By']]],
+		['credits', 'Dance Hall Crashers', 'Stand By']
+		]
+	],
 
 	['411vm issue 27', 
 		[
@@ -740,7 +826,9 @@ videoParts = [
 		['Daniel Haney Wheels Of Fortune', 'Lynyrd Skynyrd', 'Call Me The Breeze'], 
 		['Tampa Am Contests', 'The Pharcyde', 'Funny Style'], 
 		['Plan B Industry', 'Ozzy Osbourne', "I Don't Know"], 
-		['credits', 'Gorgeous', 'Gorgeous']]],
+		['credits', 'Gorgeous', 'Gorgeous']
+		]
+	],
 
 	['411vm issue 28', 
 		[
@@ -754,7 +842,9 @@ videoParts = [
 		['Make A Wish Benefit Transitions', 'Lifetime', 'Turnpike Gates'], 
 		['John Lee Wheels Of Fortune', 'Mr Dibbs', '231 Ways To Fry An Egg'], 
 		['Gideon Choi Wheels Of Fortune', 'The Grouch', 'Dreamer 2000'], 
-		['Tampa Pro Vert, Street And Best Trick Contests', 'Cuba', 'Havana']]],
+		['Tampa Pro Vert, Street And Best Trick Contests', 'Cuba', 'Havana']
+		]
+	],
 
 	['411vm issue 29', 
 		[
@@ -770,7 +860,9 @@ videoParts = [
 		['Vans Triple Crown Panama City Street And Vert\nContests', '22 Jacks', "Breakin'"], 
 		['Furnace Skate Shop Industry', 'DJ Shadow', 'Organ Donor'], 
 		['Es Europe Road Trip', 'U.k.', 'United Kingdom (remix)'], 
-		['credits', 'Starry Smooth Hound', 'Dreamt U In A Dream']]],
+		['credits', 'Starry Smooth Hound', 'Dreamt U In A Dream']
+		]
+	],
 
 	['411vm issue 30', 
 		[
@@ -783,7 +875,9 @@ videoParts = [
 		['James Craig Wheels Of Fortune', 'Jurassic 5', 'Concrete Schoolyard'], 
 		['Ed Templeton Day In The Life', 'Various Artists', 'Blow Me Down'], 
 		['Geoff Rowley Profiles', 'Dag Nasty', 'Under Your Influence'], 
-		['credits', 'Flys', 'Got You Where I Want You']]],
+		['credits', 'Flys', 'Got You Where I Want You']
+		]
+	],
 
 	['411vm issue 31', 
 		[
@@ -796,7 +890,9 @@ videoParts = [
 		['Duffs Road Trip', 'Pivit', 'Tell Me'], 
 		['World Report', 'Pegboy', "Hey Look, I'm A Cowboy"], 
 		['Madrid, Spain World Report', 'Various Artists', 'Bottoms Up'], 
-		['Stacey Lowery Rookies', 'Fugazi', 'fisted Find']]],
+		['Stacey Lowery Rookies', 'Fugazi', 'fisted Find']
+		]
+	],
 
 	['411vm issue 32', 
 		[
@@ -814,7 +910,9 @@ videoParts = [
 		['Vans Skatepark Spot Check', 'As One', 'Brown, Blue, Brown On Blue'], 
 		['Vans Skatepark Spot Check', 'Thumb', 'Break Me'], 
 		['Arto Saari Wheels Of Fortune', 'Snuff', 'Nic Northern'], 
-		['Rob Gonzalez Rookies', 'Big L', 'Criminal Slang (instrumental)']]],
+		['Rob Gonzalez Rookies', 'Big L', 'Criminal Slang (instrumental)']
+		]
+	],
 
 	['411vm issue 33', 
 		[
@@ -831,7 +929,9 @@ videoParts = [
 		['World / City Stars Hawaii Road Trip', 'Andy Caldwell', 'Adventures In La La Land'], 
 		['Peter Hewitt Profiles', 'Strung Out', 'Match Book'], 
 		['Glissexpo France Street And Vert Contests', 'April March', 'Garcon Glacon'], 
-		['credits', 'Unsane', 'Alleged']]],
+		['credits', 'Unsane', 'Alleged']
+		]
+	],
 
 	['411vm issue 34', 
 		[
@@ -849,7 +949,9 @@ videoParts = [
 		['Matt Pailes Profiles', 'Hive', 'Steps Into The Light'], 
 		['Warner Ave. Crew Day In The Life', 'Minor Threat', 'Stumped'], 
 		['Warner Ave. Crew Day In The Life', 'Fugazi', 'Reprovisional'], 
-		['credits', 'Blink 182', 'Apple Shampoo']]],
+		['credits', 'Blink 182', 'Apple Shampoo']
+		]
+	],
 
 	['411vm issue 35', 
 		[
@@ -863,7 +965,9 @@ videoParts = [
 		['Etnies Quadruple Jump Main Event', 'Friends Of Dean', 'All The Pretty Horses'], 
 		['Adio Road Trip', 'Fugazi', 'Version'], 
 		['Adio Road Trip', '7 Seconds', '99 Red Balloons'], 
-		['credits', 'Snuff', 'Bit Cosy']]],
+		['credits', 'Snuff', 'Bit Cosy']
+		]
+	],
 
 	['411vm issue 36', 
 		[
@@ -886,7 +990,9 @@ videoParts = [
 		["The Making Of Tony Hawk's Pro Skater Main Event", 'Digger', 'Tour Diary'], 
 		['Alex Moul Wheels Of Fortune', 'Youth Brigade', 'One In Five'], 
 		['Dustin Dollin Rookies', 'Generic', 'My Life Sux'], 
-		['credits', 'Agnostic Front', 'Gotta Go']]],
+		['credits', 'Agnostic Front', 'Gotta Go']
+		]
+	],
 
 	['411vm issue 37', 
 		[
@@ -904,7 +1010,9 @@ videoParts = [
 		['Europe 1999 Preview', 'The Promise Ring', 'Best Looking Boys'], 
 		['John Rattray Rookies', 'Mos Def', 'december'], 
 		['Mtv Smf3 Main Event', 'Nevermore', 'Forver (nevermore)'], 
-		['Girl And Chocolate United States Road Trip', 'Ricky Martin', "Livin' La Vida Loca"]]],
+		['Girl And Chocolate United States Road Trip', 'Ricky Martin', "Livin' La Vida Loca"]
+		]
+	],
 
 	['411vm issue 38', 
 		[
@@ -926,7 +1034,9 @@ videoParts = [
 		['Keenan Milton / Eric Pupecki / Gino Iannucci\nRoomies', 'The Wiseguys', 'introduction'], 
 		['Keenan Milton / Eric Pupecki / Gino Ianucci\nRoomies', 'Bmf', 'Grandmaster'], 
 		['Keenan Milton / Eric Pupecki / Gino Ianucci\nRoomies', 'Medina Green', 'Full Court Press'], 
-		['credits', 'April March', 'Nothing New (remix)']]],
+		['credits', 'April March', 'Nothing New (remix)']
+		]
+	],
 
 	['411vm issue 39', 
 		[
@@ -946,7 +1056,9 @@ videoParts = [
 		['Kerry Getz Five', 'Refused', 'The Apollo Programme Was A Hoax'], 
 		['Kerry Getz Five', 'Hive', 'Fallout'], 
 		['Girl South Africa Road Trip', 'Fatboy Slim', 'Right Here, Right Now'], 
-		['credits', 'Pezz', 'Pucker Factor']]],
+		['credits', 'Pezz', 'Pucker Factor']
+		]
+	],
 
 	['411vm issue 4', 
 		[
@@ -964,7 +1076,9 @@ videoParts = [
 		['Australia Tour Road Trip', 'Down By Law', 'Air Conditioner'], 
 		['United Kingdom, Germany, Italy, New Zealand,\nFrance World Report', 'London Posse', "How's Life In London"], 
 		['Switchstance Switchstance', 'Coolio', 'County Line'], 
-		['Transitions Transitions', 'Down By Law', 'At Home In The Wasteland']]],
+		['Transitions Transitions', 'Down By Law', 'At Home In The Wasteland']
+		]
+	],
 
 	['411vm issue 40', 
 		[
@@ -986,7 +1100,9 @@ videoParts = [
 		['Brazil World Cup Contests', 'The People Under The Stairs', 'The Next Step Two'], 
 		['Kenny Anderson Profiles', 'Gerry Mulligan', 'Open Country'], 
 		['Kenny Anderson Profiles', 'Curtis Mayfield', 'Pusherman'], 
-		['credits', 'Hip Hop For Respect', 'Protective Custody (instrumental)']]],
+		['credits', 'Hip Hop For Respect', 'Protective Custody (instrumental)']
+		]
+	],
 
 	['411vm issue 41', 
 		[
@@ -1004,7 +1120,9 @@ videoParts = [
 		['Stussy Japan Road Trip', 'The Nextmen', 'Mental Alchemy'], 
 		['Rodrigo Teixeira Wheels Of Fortune', 'Jazzyfatnastees', 'The Wound'], 
 		['Rodrigo Teixeira Wheels Of Fortune', 'Rappin Hood', 'E Tudo No Men Nome'], 
-		['Girl And Chocolate Euroblitz Road Trip', 'Death In Vegas', 'Dirt']]],
+		['Girl And Chocolate Euroblitz Road Trip', 'Death In Vegas', 'Dirt']
+		]
+	],
 
 	['411vm issue 42', 
 		[
@@ -1018,7 +1136,9 @@ videoParts = [
 		['Brian Sumner Check Up', 'The Get Up Kids', 'Holiday'], 
 		['On Video Premiere Main Event', 'Pedro The Lion', 'Slow And Steady Wins The Race'], 
 		['On Video Premiere Main Event', 'Fugazi', 'Last Chance For A Slow Dance'], 
-		['credits', 'Suicidal Tendencies', 'Naked']]],
+		['credits', 'Suicidal Tendencies', 'Naked']
+		]
+	],
 
 	['411vm issue 43', 
 		[
@@ -1038,7 +1158,9 @@ videoParts = [
 		['Keith Hufnagel Day In The Life', 'Thr Grouch', 'Itchin For A...'], 
 		['Keith Hufnagel Day In The Life', 'Big L', 'The Enemy'], 
 		['Keith Hufnagel Day In The Life', 'East West Connection', 'Love Music'], 
-		['credits', 'Bracket', 'No Brainer']]],
+		['credits', 'Bracket', 'No Brainer']
+		]
+	],
 
 	['411vm issue 44', 
 		[
@@ -1057,7 +1179,9 @@ videoParts = [
 		['Es Premiere Main Event', 'Patchworks (instrumental)', 'Patchworks (instrumental)'], 
 		['J.b. Gillet Rookies', 'Lunatic', 'Groupe Sangain'], 
 		['Bob Burnquist Pro Setup', 'Patchworks (instrumental)', 'Patchworks (instrumental)'], 
-		['credits', 'The Rentals', 'Overlee']]],
+		['credits', 'The Rentals', 'Overlee']
+		]
+	],
 
 	['411vm issue 45', 
 		[
@@ -1078,7 +1202,9 @@ videoParts = [
 		['Tampa Am Contests', 'Elliot', 'Calm Americans'], 
 		['France, Spain, Denmark, Brazil World Report', 'The People Under The Stairs', 'Give Love A Chance'], 
 		['Chad Tim Tim Wheels Of Fortune', 'Euphone', 'Do You Up'], 
-		['Chad Tim Tim Wheels Of Fortune', 'Hip Hop For Respect', 'One For Love (instrumental)']]],
+		['Chad Tim Tim Wheels Of Fortune', 'Hip Hop For Respect', 'One For Love (instrumental)']
+		]
+	],
 
 	['411vm issue 46', 
 		[
@@ -1102,7 +1228,9 @@ videoParts = [
 		['Caswell Berry Wheels Of Fortune', 'Murs', 'Track 7'], 
 		['Caswell Berry Wheels Of Fortune', 'Atmosphere', 'Party For The Fight To Write'], 
 		['Caswell Berry Wheels Of Fortune', 'Living Legends', 'Moody Bitch'], 
-		['credits', 'Fela Kuti', 'Shuffering And Shmiling']]],
+		['credits', 'Fela Kuti', 'Shuffering And Shmiling']
+		]
+	],
 
 	['411vm issue 47', 
 		[
@@ -1121,7 +1249,9 @@ videoParts = [
 		['Bryan London Wheels Of Fortune', 'Del The Funk Homosapien', 'Press Rewind'], 
 		['Bryan London Wheels Of Fortune', 'Lootpack', 'Weededed'], 
 		['Split Hawaii Road Trip', 'Fila Brazilia', 'President Chimp Toe'], 
-		['Split Hawaii Road Trip', 'Nail', 'All This']]],
+		['Split Hawaii Road Trip', 'Nail', 'All This']
+		]
+	],
 
 	['411vm issue 48', 
 		[
@@ -1140,7 +1270,9 @@ videoParts = [
 		['Steve Nesser Wheels Of Fortune', 'Fugazi', 'Link Track'], 
 		['Steve Nesser Wheels Of Fortune', 'Vast', 'Land Of Shame'], 
 		['Cliche Spain Road Trip', 'TripleDeckers (feat. Alanna Jordan)', 'TripleDeckers (feat. Alanna Jordan)'], 
-		['credits', 'Patchworks', 'Patchworks']]],
+		['credits', 'Patchworks', 'Patchworks']
+		]
+	],
 
 	['411vm issue 49', 
 		[
@@ -1151,7 +1283,9 @@ videoParts = [
 		['Element', 'Skate Camp', 'Biggest Rift'], 
 		['Rick McCrank', 'Pro Setup', 'Basic Instinct'], 
 		['Circa in Canada', 'Road Trip', 'Starfish'], 
-		['credits', 'Preston School of Industry', 'Falling Away']]],
+		['credits', 'Preston School of Industry', 'Falling Away']
+		]
+	],
 
 	['411vm issue 5', 
 		[
@@ -1162,7 +1296,9 @@ videoParts = [
 		['Kwala Australia Road Trip', 'The Specials', 'Gangsters'], 
 		['Nhs Cannery Private Property', 'Pantera', 'Throes Of Rejection'], 
 		['Climax Distribution Private Property', 'Pegboy', 'Witnessed'], 
-		['credits', 'The Stranglers', 'Get A Grip On Yourself']]],
+		['credits', 'The Stranglers', 'Get A Grip On Yourself']
+		]
+	],
 
 	['411vm issue 50', 
 		[
@@ -1176,7 +1312,9 @@ videoParts = [
 		['Jamie Thomas Day In The Life', 'Sharks Keep Moving', 'Open Bay'], 
 		['Jamie Thomas Day In The Life', 'Bugs In Amber', 'Intermission Test'], 
 		['Jamie Thomas Day In The Life', 'International Noise Conspiracy', 'Do I Have To Spell It Out'], 
-		['Jamie Thomas Day In The Life', 'Fugazi', 'Cashout']]],
+		['Jamie Thomas Day In The Life', 'Fugazi', 'Cashout']
+		]
+	],
 
 	['411vm issue 51', 
 		[
@@ -1195,7 +1333,9 @@ videoParts = [
 		['Monkey Stix In Colombia And Mexico Road Trip', 'Arsonists', 'Word Play'], 
 		['Monkey Stix In Colombia And Mexico Road Trip', 'Cornelius', 'Point Of View'], 
 		['Monkey Stix In Colombia And Mexico Road Trip', 'Aereogramme', 'Hatred'], 
-		['Monkey Stix In Colombia And Mexico Road Trip', 'Solex', 'Comely Row']]],
+		['Monkey Stix In Colombia And Mexico Road Trip', 'Solex', 'Comely Row']
+		]
+	],
 
 	['411vm issue 52', 
 		[
@@ -1210,7 +1350,9 @@ videoParts = [
 		['Cancer Conspiracy', 'The Silence Of Underwater Traffic', 'The Silence Of Underwater Traffic'], 
 		['Rocket From The Crypt', 'S.O.S.', 'S.O.S.'], 
 		['DJ Aphid', 'In The Aspens...', 'In The Aspens...'], 
-		['Ursula 1000', 'Beatbox Cha Cha', 'Beatbox Cha Cha']]],
+		['Ursula 1000', 'Beatbox Cha Cha', 'Beatbox Cha Cha']
+		]
+	],
 
 	['411vm issue 53', 
 		[
@@ -1226,7 +1368,9 @@ videoParts = [
 		['Breech', 'Seven', 'Seven'], 
 		['Aim', 'Guimar', 'Guimar'], 
 		['The Avalanches', 'Frontier Psychiatrist', 'Frontier Psychiatrist'], 
-		['The Matlins', 'Social Ladder', 'Social Ladder']]],
+		['The Matlins', 'Social Ladder', 'Social Ladder']
+		]
+	],
 
 	['411vm issue 54', 
 		[
@@ -1244,7 +1388,9 @@ videoParts = [
 		['Fingathing', 'Superhero Music', 'Superhero Music'], 
 		['Profile', 'Bugs In Amber', 'The Flute Song'], 
 		['credits', 'Ursula 1000', 'Mucho Tequilla'], 
-		['Road Trip (DVS)', 'Terranova', 'Just Enough']]],
+		['Road Trip (DVS)', 'Terranova', 'Just Enough']
+		]
+	],
 
 	['411vm issue 55', 
 		[
@@ -1257,7 +1403,9 @@ videoParts = [
 		['Buckminster Fuzeboard', 'Foxcall', 'Foxcall'], 
 		['Fat Jon', 'I.Dee', 'I.Dee'], 
 		['Wauvenfold', 'Clip', 'Clip'], 
-		['The Causeway', 'Compound Lessons', 'Compound Lessons']]],
+		['The Causeway', 'Compound Lessons', 'Compound Lessons']
+		]
+	],
 
 	['411vm issue 56', 
 		[
@@ -1285,7 +1433,9 @@ videoParts = [
 		['Jah "T" Injahnear Creations', 'Phonamanam', 'Phonamanam'], 
 		['Sage Francis', 'Broken Wings', 'Broken Wings'], 
 		['Chaos Article', 'Ladytron', 'Jet Age'], 
-		['Contest', 'Bugs in Amber', 'Friends Of Foes']]],
+		['Contest', 'Bugs in Amber', 'Friends Of Foes']
+		]
+	],
 
 	['411vm issue 57', 
 		[
@@ -1309,7 +1459,9 @@ videoParts = [
 		['Dave Duren', 'Track 1', 'Track 1'], 
 		['Cato Salsa Experience', 'Got Soul If You Want It', 'Got Soul If You Want It'], 
 		['Beehive & The Barracudas', 'The Real Blue Flame', 'The Real Blue Flame'], 
-		['Cato Salsa Experience', 'M.F.', 'M.F.']]],
+		['Cato Salsa Experience', 'M.F.', 'M.F.']
+		]
+	],
 
 	['411vm issue 58', 
 		[
@@ -1324,7 +1476,9 @@ videoParts = [
 		['Controlled Chaos', 'Breech', 'Kollapse'], 
 		['Bonus', 'Muskabeatz', 'raw tracks'], 
 		['Road Trip', 'Quantic', 'Life In The Rain'], 
-		['Ladytron', 'Mu', 'tron']]],
+		['Ladytron', 'Mu', 'tron']
+		]
+	],
 
 	['411vm issue 59', 
 		[
@@ -1338,7 +1492,9 @@ videoParts = [
 		['Contest (Tampa Pro)', 'Kissing Chaos', 'The Power And The Intent'], 
 		['Pro Setup (Danny Supa)', 'Funky Fresh Few', 'Deadbeat'], 
 		['Chaos', 'DJ Egadz', 'Nirvana'], 
-		['Day In The Life', 'The Dylan Group', 'Avila']]],
+		['Day In The Life', 'The Dylan Group', 'Avila']
+		]
+	],
 
 	['411vm issue 6', 
 		[
@@ -1351,7 +1507,9 @@ videoParts = [
 		['Switchstance Switchstance', 'Gang Starr', 'B.y.s.'], 
 		['Shin Okada In Japan, United Kingdom World Report', 'The Beat', 'Tears Of A Clown'], 
 		['Transitions Transitions', 'Down By Law', '500 Miles'], 
-		['credits', 'Rust', 'Some Days Never Come']]],
+		['credits', 'Rust', 'Some Days Never Come']
+		]
+	],
 
 	['411vm issue 60', 
 		[
@@ -1365,7 +1523,9 @@ videoParts = [
 		['Gang Starr', 'No Shame In My Game', 'No Shame In My Game'], 
 		['slams and bloopers', 'The Flevans', 'Go Get The Big Horn'], 
 		['credits', 'Division of Laura', 'Trapped In'], 
-		['Rest In Peace', 'G', 'Twin Panda']]],
+		['Rest In Peace', 'G', 'Twin Panda']
+		]
+	],
 
 	['411vm issue 61', 
 		[
@@ -1385,7 +1545,9 @@ videoParts = [
 		['Profile', 'The Jealous Sound', 'The Fold Out'], 
 		['Medeski Martin and Wood', 'I Wanna Ride You', 'I Wanna Ride You'], 
 		['CKY', 'Escape From Hellview', 'Escape From Hellview'], 
-		['credits', 'Nada Surf', 'Inside Of Love']]],
+		['credits', 'Nada Surf', 'Inside Of Love']
+		]
+	],
 
 	['411vm issue 62', 
 		[
@@ -1407,7 +1569,9 @@ videoParts = [
 		['Road Trip (Asia) part 2', 'Quantic Soul Orchestra', 'Terrapin'], 
 		['Jon Kennedy', 'Smith vs Smith', 'Smith vs Smith'], 
 		['Road Trip (Australia)', 'DJ Egadz', 'Falling Down'], 
-		['credits', 'Aim', 'The Girl Who Fell Through The Ice']]],
+		['credits', 'Aim', 'The Girl Who Fell Through The Ice']
+		]
+	],
 
 	['411vm issue 63', 
 		[
@@ -1419,7 +1583,9 @@ videoParts = [
 		['Contest', 'Jay', 'The Bounce'], 
 		['Wheels Of Fortune', 'Beanie Sigel', 'Remember Them Days'], 
 		['Profile', 'Jay', 'Million And One Questions'], 
-		['Jay', 'Z', 'Hand It Down']]],
+		['Jay', 'Z', 'Hand It Down']
+		]
+	],
 
 	['411vm issue 64', 
 		[
@@ -1441,7 +1607,9 @@ videoParts = [
 		['DJ Kechup', "Client's song", "Client's song"], 
 		['Og de Souza profile', 'Mzuri Sana', 'Ye!'], 
 		['Kamau', 'Sem Chance', 'Sem Chance'], 
-		['Credits', 'Ugly Duckling', 'Samba']]],
+		['Credits', 'Ugly Duckling', 'Samba']
+		]
+	],
 
 	['411vm issue 65', 
 		[
@@ -1467,7 +1635,9 @@ videoParts = [
 		['Profile', 'Matt Costa', 'The Road'], 
 		['Hieroglyphics', 'Classic', 'Classic'], 
 		['credits', 'The Russian Futurists', 'Lets Get Ready To Crumble'], 
-		['contents', 'Mr. E', 'Rainy Nights']]],
+		['contents', 'Mr. E', 'Rainy Nights']
+		]
+	],
 
 	['411vm issue 66', 
 		[
@@ -1482,7 +1652,9 @@ videoParts = [
 		['Wheels Of Fortune', 'Boot Camp Clik', 'And So'], 
 		['Pro Setup', 'Old Canes', 'Life is Grand'], 
 		['Rookie', 'Fingathing', 'Walk in Space'], 
-		['credits', 'Communique', 'Dagger Vision']]],
+		['credits', 'Communique', 'Dagger Vision']
+		]
+	],
 
 	['411vm issue 67', 
 		[
@@ -1505,7 +1677,9 @@ videoParts = [
 		['Road Trip', 'Ugly Duckling', 'I Wanna Go Home'], 
 		['Flevans', 'Background Music', 'Background Music'], 
 		['DJ Kechup', 'Japanman', 'Japanman'], 
-		['credits', 'The Firebird Band', 'The Firebird Band']]],
+		['credits', 'The Firebird Band', 'The Firebird Band']
+		]
+	],
 
 	['411vm issue 7', 
 		[
@@ -1520,7 +1694,9 @@ videoParts = [
 		['Screaming Squeegees Private Property', 'Wizards Of Ooze', 'The Bone'], 
 		['Gp Skatepark Spot Check', 'Galliano', 'Better All The Time'], 
 		['Transitions Transitions', 'Sinister Dane', 'Ugly Thing'], 
-		['credits', 'House Of Pain', "Where I'm From"]]],
+		['credits', 'House Of Pain', "Where I'm From"]
+		]
+	],
 
 	['411vm issue 8', 
 		[
@@ -1534,7 +1710,9 @@ videoParts = [
 		['Element / New Deal / Mad Circle Road Trip', 'Justice System', 'Summer In The City (sunshine Blend)'], 
 		['Sma Road Trip', 'Fretblanket', '1941'], 
 		['Venice Street Grind Contests', 'Digable Planets', 'Graffiti'], 
-		['Munster Street Contests', 'Fretblanket', 'Junkfuelled']]],
+		['Munster Street Contests', 'Fretblanket', 'Junkfuelled']
+		]
+	],
 
 	['411vm issue 9', 
 		[
@@ -1555,7 +1733,9 @@ videoParts = [
 		['Love Park Pro And Am Contests', 'Sick Of It All', 'No Cure'], 
 		['Huntington Beach Skatepark Spot Check', 'Federation', 'Rusty James'], 
 		['Switchstance Switchstance', 'Guru', 'Take A Look'], 
-		['credits', 'Guru', 'Trust Me']]],
+		['credits', 'Guru', 'Trust Me']
+		]
+	],
 
 	['411vm love affair', 
 		[
@@ -1566,7 +1746,9 @@ videoParts = [
 		['Steve Fauser', 'The Downtown Struts', "Nothin' But Trouble"], 
 		['Robert Lim #1', 'Mighty Clouds of Joy', "I'll Go"], 
 		['Robert Lim #2', 'Johnny "Guitar" Watson & Larry Williams', 'Too Late'], 
-		['credits', 'Vavak', 'Will The Circle Be Unbroken']]],
+		['credits', 'Vavak', 'Will The Circle Be Unbroken']
+		]
+	],
 
 	['56k', 
 		[
@@ -1585,7 +1767,9 @@ videoParts = [
 		['Hype Williams', 'Untitled 7', 'Untitled 7'], 
 		['Dexter Wansel', 'Rings Of Saturn', 'Rings Of Saturn'], 
 		['Cortex', 'Huit Octobre 1971', 'Huit Octobre 1971'], 
-		['Chief Keef', '3hunna', '3hunna']]],
+		['Chief Keef', '3hunna', '3hunna']
+		]
+	],
 
 	['adio one step beyond', 
 		[
@@ -1607,7 +1791,9 @@ videoParts = [
 		['Danny Montoya Intro', 'Antibalas', 'N.E.S.T.A.'], 
 		['Danny Montoya', 'N.O.T.S. Click', 'In This Game'], 
 		['Jereme Wray', 'Van Halen', "Ain't Talkin' 'Bout Love"], 
-		['Closing Montage', 'Land Of The Loops', 'Family Garage Sale']]],
+		['Closing Montage', 'Land Of The Loops', 'Family Garage Sale']
+		]
+	],
 
 	['aesthetics ryde or die volume 1', 
 		[
@@ -1621,13 +1807,17 @@ videoParts = [
 		['Clyde Singleton #1', 'Violator', 'We Are'], 
 		['Clyde Singleton #2', 'Green Mile soundtrack', 'Monstrous Big'], 
 		['Rob Welsh', 'Shyheim', 'I Declare War'], 
-		['Credits', 'Kid loco', 'Alone Again So']]],
+		['Credits', 'Kid loco', 'Alone Again So']
+		]
+	],
 
 	['alien workshop kalis in mono', 
 		[
 		['DVD Menu', 'Mum', 'We Have A Map Of The Piano'], 
 		['Josh Kalis Intro', 'Godspeed You! Black Emperor', 'Motherfucker=Redeemer (Part One)'], 
-		['Josh Kalis', 'The Rolling Stones', "Can't You Hear Me Knocking"]]],
+		['Josh Kalis', 'The Rolling Stones', "Can't You Hear Me Knocking"]
+		]
+	],
 
 	['alien workshop life splicing', 
 		[
@@ -1636,7 +1826,9 @@ videoParts = [
 		['No. 004: Nick Boserio', 'Philip Valois, Chris Cook, Charles Stanley Doll IV & Nicholas Andrew Sadler', 'Jimbo Slim'], 
 		['No. 005: Gilbert Crockett', 'Flats', 'Never Again'], 
 		['No. 006: John Fitzgerald', 'Nicholas Andrew Sadler', 'Celexa Composition'], 
-		['No. 007: Siggi Pall Palsson', 'Sin Fang', 'Look At The Light']]],
+		['No. 007: Siggi Pall Palsson', 'Sin Fang', 'Look At The Light']
+		]
+	],
 
 	['alien workshop memory screen', 
 		[
@@ -1650,7 +1842,9 @@ videoParts = [
 		['Eddie Boy', 'Whale Fingers', 'Whale Fingers'], 
 		['Dinosaur Jr.', 'Budge', 'Budge'], 
 		['Worked World', 'E', 'B'], 
-		['Toxic Death Sentence', 'High Bod Boyle', 'High Bod Boyle']]],
+		['Toxic Death Sentence', 'High Bod Boyle', 'High Bod Boyle']
+		]
+	],
 
 	['alien workshop mind field', 
 		[
@@ -1686,7 +1880,9 @@ videoParts = [
 		['Bonus', 'Kalis in Mono Intro', 'Music For Microtonal Guitar And Mallets'], 
 		['Bonus', 'Super 8', 'Petrified Forest'], 
 		['Trailer 1', 'M83', 'Fields, Shorelines And Hunters'], 
-		['Trailer 2', 'Dinosaur Jr.', 'Repulsion']]],
+		['Trailer 2', 'Dinosaur Jr.', 'Repulsion']
+		]
+	],
 
 	['alien workshop photosynthesis', 
 		[
@@ -1709,7 +1905,9 @@ videoParts = [
 		['credits', 'Tortoise', 'TNT'], 
 		['kid regeneration segment', 'Philip Glass', 'Glassmasters'], 
 		['Jason Dill spear segment', 'Philip Glass', 'Anima Mundi soundtrack'], 
-		['Habitat', 'Mr. Dibbs Primitive Tracks', 'Mr. Dibbs Primitive Tracks']]],
+		['Habitat', 'Mr. Dibbs Primitive Tracks', 'Mr. Dibbs Primitive Tracks']
+		]
+	],
 
 	['alien workshop timecode', 
 		[
@@ -1719,7 +1917,9 @@ videoParts = [
 		['Pilgrims Jubilee Singers', 'Kings Highway', 'Kings Highway'], 
 		['Dinosaur Jr.', 'Alone', 'Alone'], 
 		['Josh Kalis', 'KMD', 'Gasface Refill (instrumental)'], 
-		['John Drake', 'Black Attack', 'Verbal Attack (instrumental)']]],
+		['John Drake', 'Black Attack', 'Verbal Attack (instrumental)']
+		]
+	],
 
 	['anonymous', 
 		[
@@ -1730,7 +1930,9 @@ videoParts = [
 		['R.E.M.', 'Everybody Hurts', 'Everybody Hurts'], 
 		['Curtis Mayfield', 'Do Do Wap Is Strong In Here', 'Do Do Wap Is Strong In Here'], 
 		['Jurrasic 5', 'Jayou', 'Jayou'], 
-		['Billy Idol', 'Dancing With Myself', 'Dancing With Myself']]],
+		['Billy Idol', 'Dancing With Myself', 'Dancing With Myself']
+		]
+	],
 
 	['baker 2g', 
 		[
@@ -1748,7 +1950,9 @@ videoParts = [
 		['Elissa Steamer', 'Jonathan Richman & The Modern Lovers', 'Roadrunner'], 
 		['Brad Hayes', 'Tenor Saw', 'Ring The Alarm'], 
 		['Ali Boulala', 'Eric Burdon & The Animals', 'When I Was Young'], 
-		['final montage', 'Project Pat', 'Fuck A Bitch']]],
+		['final montage', 'Project Pat', 'Fuck A Bitch']
+		]
+	],
 
 	['baker 3', 
 		[
@@ -1769,13 +1973,17 @@ videoParts = [
 		['Outro', 'The Animals', 'Good Times'], 
 		['Ali Boulala', 'Dick Dale', 'Peter Gunn'], 
 		['Ryan "Beagle" Ewing', 'DJ Paul & Juicy J', 'Smoke A Sack'], 
-		['Credits', 'Lou Reed', 'Street Hassle']]],
+		['Credits', 'Lou Reed', 'Street Hassle']
+		]
+	],
 
 	['baker bootleg', 
 		[
 		['DJ Q', 'Bert', 'Razorblade Alcohol Slide'], 
 		['Ali Boulala', 'Tenor Saw', 'Old Time Proverb (instrumental)'], 
-		['Andrew Reynolds', 'Barry De Vorzon', 'The Warriors theme']]],
+		['Andrew Reynolds', 'Barry De Vorzon', 'The Warriors theme']
+		]
+	],
 
 	['baker has a deathwish', 
 		[
@@ -1801,7 +2009,9 @@ videoParts = [
 		['Antwuan Dixon #3', 'Snoop Dogg', "Nuthin' But a G Thang"], 
 		['Baker Tour', 'Willie Nelson', 'On The Road Again'], 
 		['Fence Hoppin', 'Patsy Cline', "Back In Baby's Arms"], 
-		['Erik Ellington at The Berrics', "Guns N' Roses", 'Out ta Get Me']]],
+		['Erik Ellington at The Berrics', "Guns N' Roses", 'Out ta Get Me']
+		]
+	],
 
 	['baker has a deathwish summer tour', 
 		[
@@ -1811,7 +2021,9 @@ videoParts = [
 		['Bone Thugs', 'n', 'Thuggish Ruggish Bone'], 
 		['40 Cal', 'Worried', 'Worried'], 
 		["Cam'ron", 'Killa Cam (Intro)', 'Killa Cam (Intro)'], 
-		['Europe', 'The Final Countdown', 'The Final Countdown']]],
+		['Europe', 'The Final Countdown', 'The Final Countdown']
+		]
+	],
 
 	['big brother boob', 
 		[
@@ -1832,7 +2044,9 @@ videoParts = [
 		['VANS New Zealand Tour #2', 'Seldom Scene', 'Hail To The Redskins'], 
 		['Johnny Knoxville', 'Dr. Hook And The Medicine Man', 'Get My Rocks Off'], 
 		['Metal mom', 'Sketch', 'Metal Mom'], 
-		['Credits', 'U2', 'The Sweetest Thing']]],
+		['Credits', 'U2', 'The Sweetest Thing']
+		]
+	],
 
 	['big brother crap', 
 		[
@@ -1853,7 +2067,9 @@ videoParts = [
 		['Depends Olympics #2', 'Vangelis', 'Chariots of Fire'], 
 		['credits #1', 'Chris Gentry', 'Big Brother'], 
 		['credits #2', 'Morissey', 'Lucky Lisp'], 
-		['montage 1', "Bomfunk MC's", 'Freestyler']]],
+		['montage 1', "Bomfunk MC's", 'Freestyler']
+		]
+	],
 
 	['big brother number two', 
 		[
@@ -1870,7 +2086,9 @@ videoParts = [
 		['Califuckinfornia', 'Twisted Sister', 'The Kids Are Back'], 
 		['Jurassic 5', 'Black Top Beat', 'Black Top Beat'], 
 		['Jerry Douglas', 'Mississippi Mud', 'Mississippi Mud'], 
-		['credits', 'Scott Thompson & Joe Sealy', "I'm Gay"]]],
+		['credits', 'Scott Thompson & Joe Sealy', "I'm Gay"]
+		]
+	],
 
 	['big brother shit', 
 		[
@@ -1881,7 +2099,9 @@ videoParts = [
 		['Night Ranger', 'Rock in America', 'Titty Man'], 
 		['New Kids on the Block', 'Hanging Tough', 'Midget'], 
 		['Saxon', 'Denim & Leather', 'Rughgh'], 
-		['Brujeria', 'Consejos Narcos', 'Techno Music']]],
+		['Brujeria', 'Consejos Narcos', 'Techno Music']
+		]
+	],
 
 	['birdhouse the end', 
 		[
@@ -1904,7 +2124,9 @@ videoParts = [
 		['Bonus', 'Jeremy Klein #1', 'If Only'], 
 		['Bonus', 'Jeremy Klein #3', 'Syde Trips'], 
 		['Bonus', 'Steve Berra', 'Queens Of The Stone Age How to Handle a Rope'], 
-		['Bonus', 'The Making Of', 'New Noise']]],
+		['Bonus', 'The Making Of', 'New Noise']
+		]
+	],
 
 	['blind video days', 
 		[
@@ -1916,7 +2138,9 @@ videoParts = [
 		['Jason Lee #1', 'Milk', 'The Knife Song'], 
 		['Jason Lee #2', 'Husker Du', 'Real World'], 
 		['Outro', 'War', 'Low Rider'], 
-		['Credits', 'Ry Cooder', 'Canci\xc3\xb3n Mixteca']]],
+		['Credits', 'Ry Cooder', 'Canci\xc3\xb3n Mixteca']
+		]
+	],
 
 	['bootleg 3000', 
 		[
@@ -1931,7 +2155,9 @@ videoParts = [
 		['Scott Kane #3', 'Alice Coltrane', 'A Monastic Trio'], 
 		['Pete Eldridge #1', 'NAS', 'Made You Look (instrumental)'], 
 		['Pete Eldridge #2', 'Nathaniel Merriweather', 'Pit Stop (Take Me Home)'], 
-		['credits & thanks', 'Original Hamster', 'Notorious DSP']]],
+		['credits & thanks', 'Original Hamster', 'Notorious DSP']
+		]
+	],
 
 	['bronze 56k  trust', 
 		[
@@ -1956,7 +2182,9 @@ videoParts = [
 		['Hype Williams', 'Rise Up', 'Rise Up'], 
 		['Max B ft T.P.', 'Porno Musik 2 (Irresistible)', 'Porno Musik 2 (Irresistible)'], 
 		['ESPRIT &#31354;&#24819;', 'Espirit.Wav', 'Espirit.Wav'], 
-		['Drake ft Detail', '305 To My City', '305 To My City']]],
+		['Drake ft Detail', '305 To My City', '305 To My City']
+		]
+	],
 
 	['chocolate tour', 
 		[
@@ -1983,7 +2211,9 @@ videoParts = [
 		['Credits #2', 'Cat Stevens', 'The Wind'], 
 		['Credits #3', 'John Lennon', 'Oh Yoko'], 
 		['Bonus #1', 'A Band of Bees', 'One Glass Of Water'], 
-		['Bonus #2', 'Captain Beefheart & His Magic Band', 'Observatory Crest']]],
+		['Bonus #2', 'Captain Beefheart & His Magic Band', 'Observatory Crest']
+		]
+	],
 
 	['chomp on this', 
 		[
@@ -2010,7 +2240,9 @@ videoParts = [
 		['Chief (Jamie Thomas)', 'Tru', 'Hoody Hooo (feat. Master P)'], 
 		['Gabe "Morf"ord', 'Black Sabbath', 'Sabbra Cadabra'], 
 		['credits #2', 'Daft Punk', 'One More Time'], 
-		['credits #3', 'Mobb Deep', 'Nessun Dorma']]],
+		['credits #3', 'Mobb Deep', 'Nessun Dorma']
+		]
+	],
 
 	['citystars street cinema', 
 		[
@@ -2032,7 +2264,9 @@ videoParts = [
 		['Paul Rodriguez #2', 'OutKast', 'Ms. Jackson'], 
 		['slow motion', 'Royal Concergebouw Orchestra/ Shostakovich', 'Waltz 2 From Jazz Suite'], 
 		['credits #1', 'Kareem Campell', "Ridin' with city stars"], 
-		['credits #2', 'Bounty Killer', 'Blood Bath']]],
+		['credits #2', 'Bounty Killer', 'Blood Bath']
+		]
+	],
 
 	['cky 3', 
 		[
@@ -2051,7 +2285,9 @@ videoParts = [
 		['Montage', 'H.I.M. (H.E.R.)', 'Right Here in my Arms'], 
 		['Full Speed Shit', 'The B', 'Rock Lobster'], 
 		['Credits', 'CKY', 'Plastic Plan'], 
-		['Music Video', 'CKY', 'Flesh into Gear (Demo)']]],
+		['Music Video', 'CKY', 'Flesh into Gear (Demo)']
+		]
+	],
 
 	['cky 4 latest and the greatest', 
 		[
@@ -2067,7 +2303,9 @@ videoParts = [
 		['Drunkness', 'Jess Margera Jamming', 'Jess Margera Jamming'], 
 		['Lawnmower in Hole', 'Grim Reaper', 'See You In Hell'], 
 		['Skate Montage', 'HIM', 'Sigillum Diaboli'], 
-		['Random 2', 'Bloodhound Gang', 'Fire Water Burn']]],
+		['Random 2', 'Bloodhound Gang', 'Fire Water Burn']
+		]
+	],
 
 	['cky2k', 
 		[
@@ -2086,7 +2324,9 @@ videoParts = [
 		["Bran's Freestyle", 'CKY', 'Chinese Freestyle'], 
 		['A Fat Fuck', 'CKY', 'Fat Fuck'], 
 		['Hook', 'Ups Tour', 'Manic Demise'], 
-		['Credits', 'CKY', 'Disengage The Simulator']]],
+		['Credits', 'CKY', 'Disengage The Simulator']
+		]
+	],
 
 	['closure', 
 		[
@@ -2101,7 +2341,9 @@ videoParts = [
 		['Nate Jones #2', 'Superchunk', 'Cadmium'], 
 		["Tim O'Connor", 'Black Sheep', 'Similak Child'], 
 		["Tim O'Connor Mini Ramp", 'Natural Elements', 'Bust Mine (instrumental)'], 
-		['The Sea and Cake', 'The Sewing Machine', 'The Sewing Machine']]],
+		['The Sea and Cake', 'The Sewing Machine', 'The Sewing Machine']
+		]
+	],
 
 	['coliseum pj ladds wonderful horrible life', 
 		[
@@ -2118,7 +2360,9 @@ videoParts = [
 		['Dave "Happy" Armsden', 'The Cure', 'Lovecats'], 
 		['Anger Management', 'Sid Vicious', 'My Way'], 
 		['Outro', 'Blur', 'The Universal'], 
-		['Bonus', 'The Making Of PJ Ladd WHL', 'The 2 of Us']]],
+		['Bonus', 'The Making Of PJ Ladd WHL', 'The 2 of Us']
+		]
+	],
 
 	['deca 2nd to none', 
 		[
@@ -2137,7 +2381,9 @@ videoParts = [
 		['Daewon Song #1', 'Linkin Park', 'Cure for the Itch'], 
 		['Daewon Song #2', 'P. Diddy & The Bad Boy Family', 'The Saga Continues'], 
 		['Credits', 'S.E.X. Appeal', 'Kids in America'], 
-		['Bonus Montage', 'Duran Duran', 'Wild Boys']]],
+		['Bonus Montage', 'Duran Duran', 'Wild Boys']
+		]
+	],
 
 	['deca sneak preview', 
 		[
@@ -2145,14 +2391,18 @@ videoParts = [
 		['Prince Paul & Chubb Rock', 'Mr. Large', 'Mr. Large'], 
 		['Era', 'Amaro RMX', 'Amaro RMX'], 
 		['Alice Doojey', 'Better Off Alone', 'Better Off Alone'], 
-		['Sean Paul/DMX/Mr. Vegas', 'Here Comes The Boom', 'Here Comes The Boom']]],
+		['Sean Paul/DMX/Mr. Vegas', 'Here Comes The Boom', 'Here Comes The Boom']
+		]
+	],
 
 	['digital 1', 
 		[
 		['Pat Duffy', 'Primus', 'Here Come the Bastards'], 
 		['Corey Sheppard', 'DJ Greyboy', 'O.G.C'], 
 		['Slam City Jam Canada', 'IMam Thug', 'Throw It Up (DJ Greyboy remix)'], 
-		['Vans Triple Crown', 'Motley Crew', 'Kickstart My Heart']]],
+		['Vans Triple Crown', 'Motley Crew', 'Kickstart My Heart']
+		]
+	],
 
 	['digital 2', 
 		[
@@ -2162,7 +2412,9 @@ videoParts = [
 		['Volcom Tour', 'The Line', 'System Deceptive'], 
 		['Montage (Clyde Singleton etc)', 'Notorious B.I.G.', 'Going Back To Cali'], 
 		['Tampa Am 2000', 'Goldie', 'Boymerang Mix'], 
-		['Pat Channita', 'Casual', 'VIP']]],
+		['Pat Channita', 'Casual', 'VIP']
+		]
+	],
 
 	['digital 3', 
 		[
@@ -2175,7 +2427,9 @@ videoParts = [
 		['Jurrasic 5', 'The Game', 'The Game'], 
 		['Main Flow', 'Council Of Elders', 'Council Of Elders'], 
 		['The Commodores', 'Machine Gun', 'Machine Gun'], 
-		['Muska Beats', 'Creation', 'Creation']]],
+		['Muska Beats', 'Creation', 'Creation']
+		]
+	],
 
 	['digital all stars', 
 		[
@@ -2191,7 +2445,9 @@ videoParts = [
 		['Mark Appleyard #1', 'Gang Starr', 'Speak Ya Clout'], 
 		['Mark Appleyard #2', 'Metallica', 'Fade To Black'], 
 		['Paul Machnau', 'Madonna', 'Die Another Day'], 
-		['Credits', 'Shaola Ama', 'I Can Show You']]],
+		['Credits', 'Shaola Ama', 'I Can Show You']
+		]
+	],
 
 	['digital difference', 
 		[
@@ -2203,7 +2459,9 @@ videoParts = [
 		['Montage 2', 'Nas', 'Affirmative Action'], 
 		['Paul Machnau', 'Survivor', 'Eye Of The Tiger'], 
 		['Outro', 'Green Day', 'Good Riddance'], 
-		['Credits', 'Kylie Minogue', "Can't Get You Out Of My Head"]]],
+		['Credits', 'Kylie Minogue', "Can't Get You Out Of My Head"]
+		]
+	],
 
 	['digital divercity', 
 		[
@@ -2215,7 +2473,9 @@ videoParts = [
 		['Pierre Luc Gagnon', 'Talking Heads', 'Psycho Killer'], 
 		['Montage 2', 'IMA Robot', 'The Beat Goes On'], 
 		['Zered Bassett', 'Timbaland & Jay', 'Lobster & Shrimp'], 
-		['Credits', 'Descendents', 'Clean Sheets']]],
+		['Credits', 'Descendents', 'Clean Sheets']
+		]
+	],
 
 	['digital everyday', 
 		[
@@ -2227,7 +2487,9 @@ videoParts = [
 		['Ryan Gallant', 'Wu', 'Triumph'], 
 		['Montage 2', 'N.W.A', 'Express Yourself (remix)'], 
 		['Ryan Sheckler', 'OutKast', 'Hey Ya!'], 
-		['Credits', 'Queen', 'Another One Bites The Dust']]],
+		['Credits', 'Queen', 'Another One Bites The Dust']
+		]
+	],
 
 	['digital fajsha', 
 		[
@@ -2239,7 +2501,9 @@ videoParts = [
 		['Fabrizio Santos & Adelmo Jr.', 'Rea\xc3\xa7\xc3\xa3o', 'Isso Tem Que Acabar'], 
 		['Leo Romero & Matt Allen', 'The Doors', 'Love Me Two Times'], 
 		['Chris Lambert', 'Ted Beats', 'Dance Hall'], 
-		['Credits', 'Kool & The Gang', 'Celebration']]],
+		['Credits', 'Kool & The Gang', 'Celebration']
+		]
+	],
 
 	['digital fyi', 
 		[
@@ -2252,7 +2516,9 @@ videoParts = [
 		['Nick Palmquist', 'Red Rider', 'Lunatic Fringe'], 
 		['Felipe Gustavo', 'The Guess Who', 'These Eyes'], 
 		['Credits', 'UGK', 'One Day'], 
-		['Trailer', 'A Flock of Seagulls', 'I Ran (So Far Away)']]],
+		['Trailer', 'A Flock of Seagulls', 'I Ran (So Far Away)']
+		]
+	],
 
 	['digital get tricks or die tryin', 
 		[
@@ -2266,7 +2532,9 @@ videoParts = [
 		['Aaron Snyder #2', 'Juelz Santana', 'Rumble Young Man Rumble'], 
 		['Gailea Momolu', 'Juelz Santana', 'Mic Check'], 
 		['Credits', 'Chemical Brothers', 'Pioneer Skies'], 
-		['Trailer 2', '50 Cent', "Hustler's Ambition"]]],
+		['Trailer 2', '50 Cent', "Hustler's Ambition"]
+		]
+	],
 
 	['digital imagine', 
 		[
@@ -2281,7 +2549,9 @@ videoParts = [
 		['Ramiro "Furby" Salcedo', 'Santana', 'Evil Ways'], 
 		['Adam Dyet', 'TV On The Radio', 'Wolf Like Me'], 
 		['credits', 'Bobby Womack', 'Across 110th Street'], 
-		['trailer', 'John Lennon', 'Imagine']]],
+		['trailer', 'John Lennon', 'Imagine']
+		]
+	],
 
 	['digital invasion', 
 		[
@@ -2293,7 +2563,9 @@ videoParts = [
 		['Jake Brown', 'Roni Size', 'Dirty Beats'], 
 		['Mark Appleyard', 'Al Green', "Ain't No Sunshine When She's Gone"], 
 		['Credits', 'Dead Or Alive', 'You Spin Me Around (Like A Record)'], 
-		['Outro', 'Vangelis', 'Chariots of Fire']]],
+		['Outro', 'Vangelis', 'Chariots of Fire']
+		]
+	],
 
 	['digital lets do this', 
 		[
@@ -2303,7 +2575,9 @@ videoParts = [
 		['Aaron Snyder', 'OutKast', "Player's Ball"], 
 		['Chris Cole', 'Smashing Pumpkins', 'An Ode To No One'], 
 		['Credits', 'Simple Minds', "Don't You (Forget About Me)"], 
-		['Dave Vey aka King of Freestyle', 'The Simpsons', 'Dr. Zaius']]],
+		['Dave Vey aka King of Freestyle', 'The Simpsons', 'Dr. Zaius']
+		]
+	],
 
 	['digital make it happen focker', 
 		[
@@ -2316,7 +2590,9 @@ videoParts = [
 		['Rodrigo Teixeira', 'Mala Rodriguez', 'Tengo Un Trato'], 
 		['Credits', 'Wayne Newton', 'Danke Schoen'], 
 		['Karaoke', 'Kenny Loggins', 'Footloose'], 
-		['Bonus', 'The Mandelbrot Set', 'Good Fucking Beats']]],
+		['Bonus', 'The Mandelbrot Set', 'Good Fucking Beats']
+		]
+	],
 
 	['digital sane', 
 		[
@@ -2328,7 +2604,9 @@ videoParts = [
 		['Casey Rigney', 'Talking Heads', 'Sugar On My Toungue'], 
 		['Jason Jones', 'Radiohead', 'Karma Police'], 
 		['Jayme Fortune', 'Bob Dylan', 'Hurricane'], 
-		['Credits', 'Dinosaur Jr.', 'Feel The Pain']]],
+		['Credits', 'Dinosaur Jr.', 'Feel The Pain']
+		]
+	],
 
 	['digital smoke and mirrors', 
 		[
@@ -2341,7 +2619,9 @@ videoParts = [
 		['Magnus Hanson', 'The Yardbirds', 'For Your Love'], 
 		['Cody McEntire', 'Lynyrd Skynyrd', 'Simple Man'], 
 		['Credits', 'The Chesterfield Kings', 'Up and Down'], 
-		['Trailer', 'The Rolling Stones', 'Under My Thumb']]],
+		['Trailer', 'The Rolling Stones', 'Under My Thumb']
+		]
+	],
 
 	['digital who let the dogs out', 
 		[
@@ -2353,7 +2633,9 @@ videoParts = [
 		['Corey Duffel', 'Johnny Thunder', 'Born To Lose'], 
 		['Montage', 'Mandlebrot Set', 'Mandlebrot Set'], 
 		['Chris Cole', 'Twisted Sister', 'I Wanna Rock'], 
-		['Tampa Am 2001', 'AC/DC', 'Thunderstruck']]],
+		['Tampa Am 2001', 'AC/DC', 'Thunderstruck']
+		]
+	],
 
 	['dime turd season', 
 		[
@@ -2365,7 +2647,9 @@ videoParts = [
 		['Tom Trago', 'Use Me Again', 'Use Me Again'], 
 		['Mac Dre & Mac Mall', 'My Chevy', 'My Chevy'], 
 		['Young Lay', 'All About My Fetti', 'All About My Fetti'], 
-		['Kevin Lowry', 'GG Allin', 'Fuckin The Dog']]],
+		['Kevin Lowry', 'GG Allin', 'Fuckin The Dog']
+		]
+	],
 
 	['dimestore the deuce', 
 		[
@@ -2379,7 +2663,9 @@ videoParts = [
 		['Eric Riedl #2', 'UGK', "I'm So Bad"], 
 		['JS Lapierre', 'The Mentors', 'Sandwich Of Love'], 
 		['Credits', 'Kool & The Gang', 'Fresh'], 
-		['Trailer', 'UGK', 'Pregnant Pussy']]],
+		['Trailer', 'UGK', 'Pregnant Pussy']
+		]
+	],
 
 	['eastern exposure 3 underachievers', 
 		[
@@ -2396,7 +2682,9 @@ videoParts = [
 		['Fugazi', 'In Defense Of Humans', 'In Defense Of Humans'], 
 		['Superchunk', 'Cadmium', 'Cadmium'], 
 		['Metallica', 'Damage, Inc.', 'Damage, Inc.'], 
-		['Miles Davis', 'Mystery', 'Mystery']]],
+		['Miles Davis', 'Mystery', 'Mystery']
+		]
+	],
 
 	['eastern standard time version 2 0', 
 		[
@@ -2409,7 +2697,9 @@ videoParts = [
 		["Boston / skater's island", 'Quim Cardona', 'Flute Beats'], 
 		['Rich Adler', 'The Ocular', 'Lifetime Warranty'], 
 		['Philadelphia/ New Jersey', 'The Ocular', 'Bangers And Mash'], 
-		['Florida', 'The Ocular', 'Skateboard Driveby']]],
+		['Florida', 'The Ocular', 'Skateboard Driveby']
+		]
+	],
 
 	['element third eye view', 
 		[
@@ -2421,7 +2711,9 @@ videoParts = [
 		['Road Trips/Demos/Tours', 'Rusted Root', 'Drum Trip'], 
 		['Kenny Hughes', 'Gang Starr', 'Work'], 
 		['Kris Markovich', 'Led Zepplin', 'Trampled Under Foot'], 
-		['Credits', 'Bob Marley & The Wailers', 'Three Little Birds']]],
+		['Credits', 'Bob Marley & The Wailers', 'Three Little Birds']
+		]
+	],
 
 	['element world tour', 
 		[
@@ -2442,7 +2734,9 @@ videoParts = [
 		['David Bowie', 'Ashes To Ashes', 'Ashes To Ashes'], 
 		['Metallica', 'The Wait', 'The Wait'], 
 		['The Champs', 'Tequila', 'Tequila'], 
-		['Radiohead', 'Let Down', 'Let Down']]],
+		['Radiohead', 'Let Down', 'Let Down']
+		]
+	],
 
 	['emerica this is skateboarding', 
 		[
@@ -2465,7 +2759,9 @@ videoParts = [
 		['Bonus', 'Montage 2', 'Pinch'], 
 		['Bonus', 'Photo Gallery', 'Last Caress'], 
 		['Bonus', 'Andrew Reynolds Extra Part', 'Sound & Vision'], 
-		['Bonus', 'Outtakes Montage', 'Up North Kids']]],
+		['Bonus', 'Outtakes Montage', 'Up North Kids']
+		]
+	],
 
 	['emerica yellow', 
 		[
@@ -2483,7 +2779,9 @@ videoParts = [
 		['Dan Drehobl & Phil Shao', 'The Adolescents', 'Kids Of The Black Hole'], 
 		['Marc Johnson', 'David Bowie', 'Unwashed And Somewhat Slightly Dazed'], 
 		['Chris Senn', 'Black Flag', 'Depression'], 
-		['Jamie Thomas & Adrian Lopez', 'Danzig', 'Am I Demon']]],
+		['Jamie Thomas & Adrian Lopez', 'Danzig', 'Am I Demon']
+		]
+	],
 
 	['es menikmati', 
 		[
@@ -2507,7 +2805,9 @@ videoParts = [
 		['Bonus', 'Paul Rodriguez', 'Bleached'], 
 		['Bonus', 'Slide Show', 'Something Resembling Sleep'], 
 		['Bonus', 'Regular Motion', 'Impulse'], 
-		['Bonus', 'Montage', "Sam's Intro"]]],
+		['Bonus', 'Montage', "Sam's Intro"]
+		]
+	],
 
 	['expedition one alone', 
 		[
@@ -2515,7 +2815,9 @@ videoParts = [
 		['Stefan Janoski', 'Nirvana', 'Lake of Fire'], 
 		['Karl Watson', 'Jet Black Crayon', 'Tonic Water'], 
 		['Ryan Gallant', 'BS2000', 'NY is Good'], 
-		['Chris Lambert', 'Red Dragon', 'We Rung Things']]],
+		['Chris Lambert', 'Red Dragon', 'We Rung Things']
+		]
+	],
 
 	['flip really sorry', 
 		[
@@ -2532,7 +2834,9 @@ videoParts = [
 		['Mark Appleyard #1', 'Hole', 'Violet'], 
 		['Mark Appleyard #2', 'Hole', 'Doll Parts'], 
 		['Credits', 'Johnny Cash', 'One'], 
-		['Trailer', 'The Stooges', 'I Wanna Be Your Dog']]],
+		['Trailer', 'The Stooges', 'I Wanna Be Your Dog']
+		]
+	],
 
 	['flip sorry', 
 		[
@@ -2561,7 +2865,9 @@ videoParts = [
 		['Bonus', 'Japan Premiere', "Sunday's Best"], 
 		['Bonus', 'Slow Motion Montage', 'Perfect Day'], 
 		['Bonus', 'On Tour 1', 'What Goes On'], 
-		['Bonus', 'On Tour 2', "Tear Off Your Own Head (It's A Doll Revolution)"]]],
+		['Bonus', 'On Tour 2', "Tear Off Your Own Head (It's A Doll Revolution)"]
+		]
+	],
 
 	['foundation art bars subtitles and seagulls', 
 		[
@@ -2575,7 +2881,9 @@ videoParts = [
 		['Ethan Fowler #2', 'The White Stripes', "Let's Build a Home"], 
 		['Justin Roy', 'Iggy Pop & The Stooges', "I'm Sick Of You"], 
 		['Kris Markovich', 'Berlin', 'The Metro'], 
-		['Credits', 'Outsiders', 'Keep on Trying']]],
+		['Credits', 'Outsiders', 'Keep on Trying']
+		]
+	],
 
 	['foundation madness and mayhem', 
 		[
@@ -2584,7 +2892,9 @@ videoParts = [
 		['The Rapture', 'Olio', 'Olio'], 
 		['Hot Snakes', '10th Planet', '10th Planet'], 
 		['Camera Obscura', 'Theory On Sex As An Art Form', 'Theory On Sex As An Art Form'], 
-		['The Mullens', 'Not So Nice', 'Not So Nice']]],
+		['The Mullens', 'Not So Nice', 'Not So Nice']
+		]
+	],
 
 	['foundation nervous breakdown', 
 		[
@@ -2599,7 +2909,9 @@ videoParts = [
 		['Jawbreaker', 'Housesitter', 'Housesitter'], 
 		['Beck', 'Cyanide Breath Mint', 'Cyanide Breath Mint'], 
 		['Sonic Youth', 'Silver Rocket', 'Silver Rocket'], 
-		['Syd Barret', 'Octopus', 'Octopus']]],
+		['Syd Barret', 'Octopus', 'Octopus']
+		]
+	],
 
 	['foundation super conductor super collider', 
 		[
@@ -2616,7 +2928,9 @@ videoParts = [
 		['Donovan', 'Wear Your Love Like Heaven', 'Wear Your Love Like Heaven'], 
 		['Josh Beagle', 'Fluf', 'Degrader'], 
 		['Sugar', 'Feeling Better', 'Feeling Better'], 
-		['Butthole Surfers', 'Hurdy Gurdy Man', 'Hurdy Gurdy Man']]],
+		['Butthole Surfers', 'Hurdy Gurdy Man', 'Hurdy Gurdy Man']
+		]
+	],
 
 	['foundation tentacles of destruction', 
 		[
@@ -2627,7 +2941,9 @@ videoParts = [
 		['Heath Kirchart & Josh Beagle #1', 'Sonic Youth', "Winner's Blues"], 
 		['Heath Kirchart & Josh Beagle #2', 'Melvins', 'Anaconda'], 
 		['Credits', 'Rick James', 'Super Freak (Instrumental)'], 
-		['Andrew Currie', 'Men At Work', 'Down Under']]],
+		['Andrew Currie', 'Men At Work', 'Down Under']
+		]
+	],
 
 	['foundation thats life', 
 		[
@@ -2645,7 +2961,9 @@ videoParts = [
 		['Corey Duffel #1', 'The Scientists', 'Last Night'], 
 		['Corey Duffel #2', 'Siouxsie and the Banshees', 'Arabian Knights'], 
 		['Credits #1', 'Queens Of The Stone Age', 'Mosquito Song'], 
-		['Credits #2', 'The Move', 'Flowers In The Rain']]],
+		['Credits #2', 'The Move', 'Flowers In The Rain']
+		]
+	],
 
 	['foundation the good times are killing me', 
 		[
@@ -2658,7 +2976,9 @@ videoParts = [
 		['Modest Mouse', 'Wild Pack Of Family Dogs', 'Wild Pack Of Family Dogs'], 
 		['Sebadoh', 'Bolder', 'Bolder'], 
 		['Olivelawn', 'Major Label Blues', 'Major Label Blues'], 
-		['Sebadoh', 'Burning Out', 'Burning Out']]],
+		['Sebadoh', 'Burning Out', 'Burning Out']
+		]
+	],
 
 	['foundation the magic f', 
 		[
@@ -2671,7 +2991,9 @@ videoParts = [
 		['Billy Baker', 'The Hip Joints', 'Tickout'], 
 		['Josh Beagle 1', 'Funkadelic', 'Super Stupid'], 
 		['Josh Beagle 2', 'Soulside', 'Problems Faced'], 
-		['credits', 'Joe Jackson', 'Five Guys Named Moe']]],
+		['credits', 'Joe Jackson', 'Five Guys Named Moe']
+		]
+	],
 
 	['foundation the retirement party', 
 		[
@@ -2687,7 +3009,9 @@ videoParts = [
 		['Hand', 'Painted #2', 'Wedding Song'], 
 		['Mike Rusczyk Extras', 'Jane Birkin & Serge Gainesbourg', 'Elisa'], 
 		['Mike Rusczyk Art Bars', 'Freedom For Saturn', 'Double Negative'], 
-		["Mike Rusczyk That's Life Re", 'Edit', 'Schizophrenia']]],
+		["Mike Rusczyk That's Life Re", 'Edit', 'Schizophrenia']
+		]
+	],
 
 	['fourstar catalog shoot', 
 		[
@@ -2700,7 +3024,9 @@ videoParts = [
 		['scooter fun', "Fred Wesley & The JB's", 'Blow Your Head'], 
 		['fun montage', 'The Streets', 'The Boy With The Arab Strap'], 
 		['credits #1', 'Phoenix', 'Too Young'], 
-		['credits #2', 'Cut Copy', 'Going Nowhere']]],
+		['credits #2', 'Cut Copy', 'Going Nowhere']
+		]
+	],
 
 	['fourstar super champion funzone', 
 		[
@@ -2731,7 +3057,9 @@ videoParts = [
 		['Bonus', 'Mark Gonzales', 'Drop'], 
 		['Bonus', 'PJ Ladd, Eric Koston, Brian Anderson', 'Bellbottoms'], 
 		['Bonus', 'School', 'Alright'], 
-		['Trailer', 'FC Kahuna', 'Fear Of Guitars']]],
+		['Trailer', 'FC Kahuna', 'Fear Of Guitars']
+		]
+	],
 
 	['ftc a thin line between love and haight', 
 		[
@@ -2743,7 +3071,9 @@ videoParts = [
 		['Adrian Williams', 'Mac Dre', "That's wassup"], 
 		['Montage 2', 'Interpol', 'Evil'], 
 		['Lee Smith', 'Marvin Gaye', 'Got To Give It Up'], 
-		['Credits', 'Curtis Mayfield', 'Running Wild']]],
+		['Credits', 'Curtis Mayfield', 'Running Wild']
+		]
+	],
 
 	['ftc finally', 
 		[
@@ -2755,7 +3085,9 @@ videoParts = [
 		['The Beatles', 'Flying', 'Flying'], 
 		['De La Soul', 'I Am I Be', 'I Am I Be'], 
 		['The Beatles', 'A Day In The Life', 'A Day In The Life'], 
-		['Dave Metty & John Klein', 'Credits Song', 'Credits Song']]],
+		['Dave Metty & John Klein', 'Credits Song', 'Credits Song']
+		]
+	],
 
 	['ftc penal code 100a', 
 		[
@@ -2767,7 +3099,9 @@ videoParts = [
 		['Keith Hufnagel', 'Althea Forrest & Donna Reid', 'Uptown Top Ranking'], 
 		['montage 3', 'The Isley Brothers', "Who's That Lady"], 
 		['Max Schaaf', 'Love', 'Always See Your Face'], 
-		['Rick Howard & Mike Carroll', 'Coolio', 'Drama']]],
+		['Rick Howard & Mike Carroll', 'Coolio', 'Drama']
+		]
+	],
 
 	['ftc video 3', 
 		[
@@ -2786,7 +3120,9 @@ videoParts = [
 		['Wu', 'Tang', 'Duck Season'], 
 		['G & E Music', 'Sideways (instrumental)', 'Sideways (instrumental)'], 
 		['Led Zeppelin', 'Kashmir', 'Kashmir'], 
-		['Ananda Shankar', 'Throw Down', 'Throw Down']]],
+		['Ananda Shankar', 'Throw Down', 'Throw Down']
+		]
+	],
 
 	['girl goldfish', 
 		[
@@ -2801,7 +3137,9 @@ videoParts = [
 		['Mike Carroll #2', 'Gang Starr', 'Words from the Nutcracker'], 
 		['Portable Jump Ramp', 'Richard Wagner', 'The Ride of the Valkyries'], 
 		['Eric Koston', 'Slick Rick', "Cuz It's Wrong"], 
-		['Free Goldy', 'Ravel', 'Bolero']]],
+		['Free Goldy', 'Ravel', 'Bolero']
+		]
+	],
 
 	['girl harsh euro barge', 
 		[
@@ -2813,7 +3151,9 @@ videoParts = [
 		['Ram Squad', 'Ballers', 'Ballers'], 
 		['Orbital', 'Illuminate', 'Illuminate'], 
 		['DJ Rush', 'Motherfucking Bass', 'Motherfucking Bass'], 
-		['Cat Power', 'Cross Bones Style', 'Cross Bones Style']]],
+		['Cat Power', 'Cross Bones Style', 'Cross Bones Style']
+		]
+	],
 
 	['girl mouse', 
 		[
@@ -2836,7 +3176,9 @@ videoParts = [
 		['bonus #1', 'Paul Simon', '50 Ways To Leave Your Lover'], 
 		['bonus #3', 'Rick Howard & Richard Mulder', 'Ballad Of A Thin Man'], 
 		['Bonus #4', 'Keenan Milton', 'Sound Bwoy Bureill'], 
-		['bonus #5', 'Guy Mariano', 'Watermelon Man']]],
+		['bonus #5', 'Guy Mariano', 'Watermelon Man']
+		]
+	],
 
 	['girl yeah right', 
 		[
@@ -2875,7 +3217,9 @@ videoParts = [
 		['Bonus', 'Keenan Milton #6', 'Sunny'], 
 		['Bonus', 'Slideshow #1', 'Help Yourself'], 
 		['Bonus', 'Slideshow #2', 'He War'], 
-		['Bonus', 'Slideshow #3', 'Speak For Me']]],
+		['Bonus', 'Slideshow #3', 'Speak For Me']
+		]
+	],
 
 	['globe opinion', 
 		[
@@ -2891,7 +3235,9 @@ videoParts = [
 		['Chet Thomas #2', 'Saru', 'Bamboo Shadow'], 
 		['Matt Mumford', 'Iggy Pop & The Stooges', 'Gimme Danger'], 
 		['Rodney Mullen', 'Zoeangel', 'Sweet Home Alabama'], 
-		['credits', 'The Album Leaf', 'In Between Lines']]],
+		['credits', 'The Album Leaf', 'In Between Lines']
+		]
+	],
 
 	['habitat mosaic', 
 		[
@@ -2914,7 +3260,9 @@ videoParts = [
 		['Credits', 'Papa M', 'Northwest Passage'], 
 		['Bonus', 'Unused & Tour Footage #1', 'Mike Montgomery Original Music'], 
 		['Bonus', 'Unused & Tour Footage #2', 'Four Corners'], 
-		['Bonus', 'Photo Collage', 'Track #4']]],
+		['Bonus', 'Photo Collage', 'Track #4']
+		]
+	],
 
 	['hook ups destroying america', 
 		[
@@ -2930,7 +3278,9 @@ videoParts = [
 		['Arcade Hall', 'Rhythm Heritage', 'Theme from S.W.A.T.'], 
 		['Destroying Cop Car', 'Danzig', 'Mother'], 
 		['credits', 'N.W.A.', 'Straight Outta Compton'], 
-		['David Bowie', 'Ziggy Stardust', 'Ziggy Stardust']]],
+		['David Bowie', 'Ziggy Stardust', 'Ziggy Stardust']
+		]
+	],
 
 	['krooked gnar gnar', 
 		[
@@ -2938,7 +3288,9 @@ videoParts = [
 		['New Order', 'Dreams Never End', 'Dreams Never End'], 
 		['The Smiths', "You've Got Everything Now", "You've Got Everything Now"], 
 		['Nancy Sinatra', 'Burning The Sparks', 'Burning The Sparks'], 
-		['Jim Nabors', 'Bridge Over Troubled Water', 'Bridge Over Troubled Water']]],
+		['Jim Nabors', 'Bridge Over Troubled Water', 'Bridge Over Troubled Water']
+		]
+	],
 
 	['krooked kronichles', 
 		[
@@ -2965,7 +3317,9 @@ videoParts = [
 		['bonus', 'Rich Jacobs', 'excerpts from "Try Not To Fall Dawn" & "Don\'t Miss Anything" by Tim Kerr & Rich Jacobs'], 
 		['bonus', 'Krooked family', 'Tight Jeans'], 
 		['bonus', 'Japan trip', 'Tangland'], 
-		['bonus', 'internacional', 'Junkyard Dogs']]],
+		['bonus', 'internacional', 'Junkyard Dogs']
+		]
+	],
 
 	['krooked krook3d', 
 		[
@@ -2990,7 +3344,9 @@ videoParts = [
 		['Krook2d', 'Girl', 'Dead Energy'], 
 		['Krook2d', 'SF Krooz', 'Enemy Destruct'], 
 		['Krook2d', 'LA Chase', 'Voice In The Mirror'], 
-		['Krook2d', 'Kredits', 'Peanut Butter Oven']]],
+		['Krook2d', 'Kredits', 'Peanut Butter Oven']
+		]
+	],
 
 	['krooked naugty', 
 		[
@@ -3003,7 +3359,9 @@ videoParts = [
 		['Mike Anderson', "Ariel Pink's Haunted Graffiti", 'Among Dreams'], 
 		['Bobby Worrest #1', 'Neil Blender', '007 theme'], 
 		['Bobby Worrest #2', 'The Wrinks', 'Barfight'], 
-		['Bobby Worrest #3', 'The Wrinks', 'I Get My Dinner From Dumpsters']]],
+		['Bobby Worrest #3', 'The Wrinks', 'I Get My Dinner From Dumpsters']
+		]
+	],
 
 	['lakai beware of the flare', 
 		[
@@ -3014,7 +3372,9 @@ videoParts = [
 		['France #2', 'Xploding Plastix', 'Treat Me Mean, I Need The Reputation'], 
 		['Spain', 'Static Revenger', 'Happy People'], 
 		['Team Montage', 'Ram Squad', 'Ballers (instrumental)'], 
-		['Credits', 'Orbital', 'Illuminate']]],
+		['Credits', 'Orbital', 'Illuminate']
+		]
+	],
 
 	['land pirates', 
 		[
@@ -3039,7 +3399,9 @@ videoParts = [
 		['Chris Casey', 'Jerry Reed', 'East Bound And Down'], 
 		['Tim Bruns', 'New Kids On The Block', 'Hangin Tough'], 
 		['special thanks', 'Joe Esposito', "You're The Best Around"], 
-		['ender', 'Disney', "Yo Ho (A Pirate's Life For Me)"]]],
+		['ender', 'Disney', "Yo Ho (A Pirate's Life For Me)"]
+		]
+	],
 
 	['logic 10', 
 		[
@@ -3056,7 +3418,9 @@ videoParts = [
 		['Gailea Momolu #1', 'Jai Plus', 'The Theme'], 
 		['Gailea Momolu #2', 'Jai Plus', 'Momolu Beat'], 
 		['Van Wastell', 'Paris Texas', 'Future Scars'], 
-		['Credits', 'Ukiyo', 'Nascimento']]],
+		['Credits', 'Ukiyo', 'Nascimento']
+		]
+	],
 
 	['logic 11', 
 		[
@@ -3070,7 +3434,9 @@ videoParts = [
 		['Enrique Lorenzo', 'Safri Duo', 'Baya Baya'], 
 		['Enrique Lorenzo #2', 'Aesop Rock', 'Dinner With Blockhead'], 
 		['Mike Rosa', 'Rubberoom', 'Smoke'], 
-		['Credits', 'South', 'Smoke']]],
+		['Credits', 'South', 'Smoke']
+		]
+	],
 
 	['logic 12', 
 		[
@@ -3083,7 +3449,9 @@ videoParts = [
 		['Montage 2', 'The Dismemberment Plan', 'Sentimental Man'], 
 		['Daniel Haney', 'Big Tymers', 'Still Fly'], 
 		['Mike Barker', 'Benji', 'Get By'], 
-		['Credits', 'Icebreaker', 'Melody for NATO']]],
+		['Credits', 'Icebreaker', 'Melody for NATO']
+		]
+	],
 
 	['logic 13 death of a video magazine', 
 		[
@@ -3103,7 +3471,9 @@ videoParts = [
 		['Rob Dyrdek & Anthony Van Engelen 4', 'Taiwan Kid', 'Made In Taiwan'], 
 		['Jake Nunn', 'Pele', 'Gugi'], 
 		['Rob Dyrdek & Anthony Van Engelen 5', 'Mochipet', 'Randbient Works'], 
-		['Credits', 'Hush', 'Summer Rappers Skit / Deez Nutz']]],
+		['Credits', 'Hush', 'Summer Rappers Skit / Deez Nutz']
+		]
+	],
 
 	['logic 14 contrast', 
 		[
@@ -3115,7 +3485,9 @@ videoParts = [
 		['Satori #2', 'Rasmatthew', 'Resistance'], 
 		['Montage', 'Arthur Nakane', 'Band On The Run'], 
 		['Devine Calloway', 'Unified School District', 'Big Dump Fly'], 
-		['Credits & Opening Monologue', 'Mr Dope America', 'More Than a Feeling']]],
+		['Credits & Opening Monologue', 'Mr Dope America', 'More Than a Feeling']
+		]
+	],
 
 	['logic 3', 
 		[
@@ -3126,7 +3498,9 @@ videoParts = [
 		['Washington D.C.', 'Truth Elemental For Elemental', 'Workers Of The Threshhold'], 
 		['Scott Pazelt', 'Quiet Riot', 'Cum On Feel The Noize'], 
 		['Undercover', 'Sound Bombing', 'Chaos'], 
-		['Credits', 'Gameface', 'My Star']]],
+		['Credits', 'Gameface', 'My Star']
+		]
+	],
 
 	['logic 4', 
 		[
@@ -3139,7 +3513,9 @@ videoParts = [
 		['Nate Smith', 'DMX', "Slippin'"], 
 		['Undercover', 'Face To Face', 'Complicated'], 
 		['Ryan Denman', 'Beatnuts', 'Slam Pit'], 
-		['Credits', 'Mazzy Star', 'Fade Into You']]],
+		['Credits', 'Mazzy Star', 'Fade Into You']
+		]
+	],
 
 	['logic 5', 
 		[
@@ -3153,7 +3529,9 @@ videoParts = [
 		['Seu Trinh #2', 'Blood Hound Gang', 'The Bad Touch'], 
 		['Undercover', 'Hip Hop For Respect', 'One For Love'], 
 		['JP Jadeed', 'Coco Brovaz', 'Super Brooklyn'], 
-		['Credits', 'Tugboat Annie', 'Vendetta']]],
+		['Credits', 'Tugboat Annie', 'Vendetta']
+		]
+	],
 
 	['logic 6', 
 		[
@@ -3165,7 +3543,9 @@ videoParts = [
 		['Kenny Anderson', 'Beth Orton', 'Best Bit'], 
 		['Undercover', 'The Sea and Cake', 'The Argument'], 
 		['Paul Rodriguez', 'Shantel', 'Azulee'], 
-		['Credits', 'Tears for Fears', 'Everybody Wants to Rule the World']]],
+		['Credits', 'Tears for Fears', 'Everybody Wants to Rule the World']
+		]
+	],
 
 	['logic 7', 
 		[
@@ -3177,7 +3557,9 @@ videoParts = [
 		['Danny Renaud & Ryan Nix', 'The Automator', 'A Better Tomorrow Part 2'], 
 		['Chris Head', 'Hey Mercedes', 'The House Shook'], 
 		['Undercover', 'Trip To Brazil', 'Mini CD Track 1'], 
-		['Danny Gonzalez & Credits', 'Aloha', 'The Sound Between']]],
+		['Danny Gonzalez & Credits', 'Aloha', 'The Sound Between']
+		]
+	],
 
 	['logic 8', 
 		[
@@ -3190,7 +3572,9 @@ videoParts = [
 		['John Buchanan', 'Beat Junkies (Vol. 2)', 'Track 10 (feat. Show and AG)'], 
 		['Graham Bickerstaff & Phil Kent', 'DJ Honda', 'El Presidente (instrumental)'], 
 		['Dustin Charleton', 'Arlo Guthrie', 'Coming Into Los Angeles'], 
-		['Outro & Credits', 'The Album Leaf', 'The Audio Pool']]],
+		['Outro & Credits', 'The Album Leaf', 'The Audio Pool']
+		]
+	],
 
 	['logic 9', 
 		[
@@ -3204,14 +3588,18 @@ videoParts = [
 		['German Nieves', 'Brand Nubian', 'Punks Jump Up To Get Beat Down'], 
 		['Trevor Prescott #1', 'Vito Y Coco', 'Tha Storytella'], 
 		['Trevor Prescott #2', 'Vito Y Coco', 'Runnin Of Da Bulls'], 
-		['Credits', 'Tarentel', 'track #2']]],
+		['Credits', 'Tarentel', 'track #2']
+		]
+	],
 
 	['lordz conspiracy', 
 		[
 		['Nao Nussbaum & Luy', 'Pa Sin', 'My Rites'], 
 		['JB Gillet', 'Method Man & Redman', 'Da Rockwilder (instrumental)'], 
 		['outro #1', 'Marvin Gaye & Tammi Terrell', "You're All I Need to Get By"], 
-		['outro 2', 'Wendy Rene', 'After Laughter']]],
+		['outro 2', 'Wendy Rene', 'After Laughter']
+		]
+	],
 
 	['lordz they dont give a fuck about us', 
 		[
@@ -3224,7 +3612,9 @@ videoParts = [
 		['Bastien Salabanzi', 'Bien Entendu Editions', 'James and Jimi'], 
 		['Florentin Marfaing', 'IV My People', 'Ce Le Groupe'], 
 		['Outro', 'O Happy Day (Live)', 'O Happy Day (Live)'], 
-		['Credits', 'Malia', 'Twickling Little Star']]],
+		['Credits', 'Malia', 'Twickling Little Star']
+		]
+	],
 
 	['maple black cat', 
 		[
@@ -3237,12 +3627,16 @@ videoParts = [
 		['Jerry Hsu #1', 'The Halo Benders', 'Virginia Reel Around The Fountain'], 
 		['Jerry Hsu #2', "Rachel's", 'Honeysuckle Suite'], 
 		['Bonus', 'Montage #1', 'My Life'], 
-		['Bonus', 'Montage #2', 'Go Your Own Way']]],
+		['Bonus', 'Montage #2', 'Go Your Own Way']
+		]
+	],
 
 	['maple rites of passage', 
 			[
 			['Jeff Nichols', 'Supersuckers', 'Seventeen Poles'], 
-			['Thom Hornung', 'Supersuckers', 'On The Couch']]],
+			['Thom Hornung', 'Supersuckers', 'On The Couch']
+			]
+		],
 
 	['nc tilt mode', 
 		[
@@ -3263,7 +3657,9 @@ videoParts = [
 		['Marc Johnson', 'Yo La Tengo', 'Decora'], 
 		['credits', 'Jets To Brazil', 'Sweet Avenue'], 
 		['bonus', 'Paul Simon', 'Me And Julio Down By The Schoolyard'], 
-		['Tiltmode house party', 'Meco', 'Star Wars Disco']]],
+		['Tiltmode house party', 'Meco', 'Star Wars Disco']
+		]
+	],
 
 	['new deal 7year glitch', 
 		[
@@ -3280,7 +3676,9 @@ videoParts = [
 		['Chad Bartie', 'Donovan', 'Hurdy Gurdy Man'], 
 		['Kenny Reed', 'Shuggie Otis', 'Strawberry Letter 23'], 
 		['credits', 'Deltron', 'Upgrade (A Brymar College Course)'], 
-		['Feel Good', 'Elton John', 'Tiny Dancer']]],
+		['Feel Good', 'Elton John', 'Tiny Dancer']
+		]
+	],
 
 	['on video fall 2000', 
 		[
@@ -3298,7 +3696,9 @@ videoParts = [
 		['Couch', 'Linie Gegen Strich', 'Linie Gegen Strich'], 
 		['Vast', 'Three Doors', 'Three Doors'], 
 		['Primus', 'Tommy The Cat', 'Tommy The Cat'], 
-		['Jazz Cannon', 'Daddy Ride', 'Daddy Ride']]],
+		['Jazz Cannon', 'Daddy Ride', 'Daddy Ride']
+		]
+	],
 
 	['on video fall 2002', 
 		[
@@ -3323,7 +3723,9 @@ videoParts = [
 		['Dabrye', 'With A Professional', 'With A Professional'], 
 		['Enon', 'Diamond Ratt', 'Diamond Ratt'], 
 		['Caural', 'Crush', 'Crush'], 
-		['The Octopus Project', 'Crying At The Aquarium', 'Crying At The Aquarium']]],
+		['The Octopus Project', 'Crying At The Aquarium', 'Crying At The Aquarium']
+		]
+	],
 
 	['on video spring 2001', 
 		[
@@ -3349,7 +3751,9 @@ videoParts = [
 		['Push Button Objects', 'Toothpicks And Horses', 'Toothpicks And Horses'], 
 		['Pep Love', 'Act Phenom (Instrumental)', 'Act Phenom (Instrumental)'], 
 		['Souls Of Mischief', "'93 Til Infinity", "'93 Til Infinity"], 
-		['Credits', 'Blonde Redhead', 'Bonus Track']]],
+		['Credits', 'Blonde Redhead', 'Bonus Track']
+		]
+	],
 
 	['on video spring 2002', 
 		[
@@ -3369,7 +3773,9 @@ videoParts = [
 		['Rockets to Russia', 'Jel', 'Wontoncanofwhupass'], 
 		['Rockets to Russia', 'Jel', 'Programmed to Hunt 2007'], 
 		['credits', 'Timonium', 'Crushed Discs'], 
-		['bonus', 'Harsh Leftovers', 'Duration']]],
+		['bonus', 'Harsh Leftovers', 'Duration']
+		]
+	],
 
 	['on video summer 2000', 
 		[
@@ -3392,7 +3798,9 @@ videoParts = [
 		['John Williams', 'The Early Days, Massapequa', 'The Early Days, Massapequa'], 
 		['The Who', 'Behind Blue Eyes', 'Behind Blue Eyes'], 
 		['Vast', 'Somewhere Else', 'Somewhere Else'], 
-		['Live Human', 'Loopless', 'Loopless']]],
+		['Live Human', 'Loopless', 'Loopless']
+		]
+	],
 
 	['on video summer 2001', 
 		[
@@ -3410,7 +3818,9 @@ videoParts = [
 		['Class Of 1990', 'Wonderful Broken Thing', 'Roam Around'], 
 		['Class Of 1990', 'Blonde Redhead', '10'], 
 		['Class Of 1990', 'Fugazi', 'Kyeo'], 
-		['credits', 'Red Stars Theory', 'Parts Per Million (remix)']]],
+		['credits', 'Red Stars Theory', 'Parts Per Million (remix)']
+		]
+	],
 
 	['on video summer 2002', 
 		[
@@ -3431,7 +3841,9 @@ videoParts = [
 		['Carlsbad Mythology', 'Induce', 'Cutical Scrapes'], 
 		['Shut Up And Skate', 'Bugs in Amber', 'Bedroom Furnature'], 
 		['Hot Process', 'Eggplant Xanadu', 'Voices from Nowhere'], 
-		['On Video Summer 2002 trailers', 'Pretty Girls Make Graves', 'Speakers Push the Air']]],
+		['On Video Summer 2002 trailers', 'Pretty Girls Make Graves', 'Speakers Push the Air']
+		]
+	],
 
 	['on video summer 2003', 
 		[
@@ -3469,7 +3881,9 @@ videoParts = [
 		['Electric Birds', 'Tensonic', 'Tensonic'], 
 		['Electric Birds', 'Slampic', 'Slampic'], 
 		['Odd Nosdam', 'Track 10', 'Track 10'], 
-		['The Standard', 'Year Of Seconds', 'Year Of Seconds']]],
+		['The Standard', 'Year Of Seconds', 'Year Of Seconds']
+		]
+	],
 
 	['on video winter 2002', 
 		[
@@ -3506,7 +3920,9 @@ videoParts = [
 		['Breaks Down Tricks', 'Push Button Objects', '360\xc2\xb0 (DJ Spinna remix)'], 
 		['Modern Boards Shapes', 'DNTEL', 'This Is How It Will All Be Over'], 
 		["Rodney's Top 50", 'Controller 7', 'Unknown'], 
-		['conclusion & credits', 'Black Heart Procession', 'Waterfront (The Sinking Road)']]],
+		['conclusion & credits', 'Black Heart Procession', 'Waterfront (The Sinking Road)']
+		]
+	],
 
 	['on video winter 2003', 
 		[
@@ -3557,7 +3973,9 @@ videoParts = [
 		['Bonus: Bam On Natas', 'Caural', 'Sipping Snake Blood Wine'], 
 		['Bonus: Satan Spelled Backwards', 'Caural', 'Red Sunshine'], 
 		['Bonus: Natas Portfolio', 'Tommy Guererro', 'Little Blue'], 
-		['Slideshow', 'Tommy Guerrero', 'Insomniac']]],
+		['Slideshow', 'Tommy Guerrero', 'Insomniac']
+		]
+	],
 
 	['on video winter 2004', 
 		[
@@ -3585,7 +4003,9 @@ videoParts = [
 		['Odd Nosdam', 'Le Mix Tape Delux', 'track 17'], 
 		['Credits', 'TV On The Radio', 'Young Liars'], 
 		['Bonus', 'Bacon Bits', 'Noah23 Chicken Pox Inst.'], 
-		['Love Parts', 'Orphan', 'Info War']]],
+		['Love Parts', 'Orphan', 'Info War']
+		]
+	],
 
 	['osiris the storm', 
 		[
@@ -3614,7 +4034,9 @@ videoParts = [
 		['Brandon Turner & Peter Smolik #1', 'Tha Federalz', 'Mad Punches'], 
 		['Brandon Turner & Peter Smolik #2', 'Tha Federalz', 'Def, Dumb and Blind'], 
 		['Credits', 'King Sun', "You Don't Know (instrumental)"], 
-		['Outro', 'The Doors', 'Riders On The Storm']]],
+		['Outro', 'The Doors', 'Riders On The Storm']
+		]
+	],
 
 	['peter vlads wonderful horrible life', 
 		[
@@ -3628,7 +4050,9 @@ videoParts = [
 		['Friends', 'Peter Bjorn and John', 'Amsterdam'], 
 		['John Motta Intro', 'The Robot Ate Me', 'Crispy Christian Tea Time'], 
 		['John Motta', 'The Concretes', 'Diana Ross'], 
-		['Peter Vlad', 'Cat Stevens', 'Music']]],
+		['Peter Vlad', 'Cat Stevens', 'Music']
+		]
+	],
 
 	['puzzle video 1', 
 		[
@@ -3637,7 +4061,9 @@ videoParts = [
 		['Notorious B.I.G.', 'Everyday Struggle', 'Everyday Struggle'], 
 		['Frankie Cutlass', 'The Cypher: Part 3', 'The Cypher: Part 3'], 
 		['Mighty Mighty Bosstones', 'How Why Wuz How Why Am', 'How Why Wuz How Why Am'], 
-		['Wyclef Jean', 'Guantanamera', 'Guantanamera']]],
+		['Wyclef Jean', 'Guantanamera', 'Guantanamera']
+		]
+	],
 
 	['puzzle video 15', 
 		[
@@ -3648,7 +4074,9 @@ videoParts = [
 		['Thomas Kahlbom & Carl Edvard Heisholdt', 'Diaz', 'I Come To Collect'], 
 		['Clich\xc3\xa9 tour', 'Kids Indestructible', 'Gooom Tracks'], 
 		['Jumble 2', 'II Ceo', 'Funk Cut'], 
-		['credits', 'The Bees', 'Punchbag']]],
+		['credits', 'The Bees', 'Punchbag']
+		]
+	],
 
 	['puzzle video 17', 
 		[
@@ -3657,7 +4085,9 @@ videoParts = [
 		['Osiris in Portugal, Spain', 'Blak Twang', 'Vow'], 
 		['Germany, Denmark, Norway', 'Biffy Clyro', '57'], 
 		['Event', 'Last Days Of April', 'Too Close'], 
-		['credits', 'Luna', 'Lovedust']]],
+		['credits', 'Luna', 'Lovedust']
+		]
+	],
 
 	['puzzle video 18', 
 		[
@@ -3666,7 +4096,9 @@ videoParts = [
 		['One Week With Jean Postec', 'Asian Dub Foundation', 'Riddim I Like'], 
 		['Event', 'Marseille Bowlriders & Prague', 'Untitled'], 
 		['5 Guys', 'Dwayne Sodahberk', 'Devoiced'], 
-		['ending', 'Nada Surf', 'Happy Kid']]],
+		['ending', 'Nada Surf', 'Happy Kid']
+		]
+	],
 
 	['puzzle video 20', 
 		[
@@ -3676,7 +4108,9 @@ videoParts = [
 		['Guys #1', 'M83', 'America'], 
 		['Guys #2', 'Lil Dap', 'Got It, Got It'], 
 		['Element in Barcelona', 'TGM', 'Infinity 2.0 (feat. Shella Gatwright)'], 
-		['credits', 'M83', 'Run Into Flowers']]],
+		['credits', 'M83', 'Run Into Flowers']
+		]
+	],
 
 	['puzzle video 21', 
 		[
@@ -3687,7 +4121,9 @@ videoParts = [
 		['Guys #1', 'Manitoba', 'Thistles And Felt'], 
 		['Guys #2', 'The Postal Service', 'Such Great Heights'], 
 		['Sole Tech/Element tours', 'Karlito', 'Contenu Sous Pression'], 
-		['outro', 'Imitation Electric Piano', 'Dont Tell Me Im Wrong']]],
+		['outro', 'Imitation Electric Piano', 'Dont Tell Me Im Wrong']
+		]
+	],
 
 	['puzzle video 22', 
 		[
@@ -3697,7 +4133,9 @@ videoParts = [
 		['Event', 'RJD2', 'Smokes And Mirrors'], 
 		['Billabong/Volcom tours', 'ASG', 'Painted Hatred'], 
 		['Guys #1', 'RJD2', 'Work'], 
-		['Guys #2', 'RJD2', 'Good Times Roll (part 2)']]],
+		['Guys #2', 'RJD2', 'Good Times Roll (part 2)']
+		]
+	],
 
 	['puzzle video 23', 
 		[
@@ -3708,13 +4146,17 @@ videoParts = [
 		['Tour (Platinum In France)', 'Dream Evil', 'The Prophecy'], 
 		['Jumble', 'Charizma & Peanut Butter Wolf', 'Devotion'], 
 		['Focus (Petr Horvat)', 'Cappadonna', 'Cappadonna'], 
-		['outro', 'Al Green', "I Can't Stop"]]],
+		['outro', 'Al Green', "I Can't Stop"]
+		]
+	],
 
 	['puzzle video 24', 
 		[
 		['Jumble', 'Cedric Im Brooks & The Light Of Saba', 'Sabasi'], 
 		['Focus', 'Diverse', '747 (Flyin)'], 
-		['Guys', 'Placebo', 'Daddy Cool']]],
+		['Guys', 'Placebo', 'Daddy Cool']
+		]
+	],
 
 	['puzzle video 8', 
 		[
@@ -3725,7 +4167,9 @@ videoParts = [
 		['Undeclinables Ambuscade', 'Bully Proof', 'Bully Proof'], 
 		['Bad Taste Vol. 3', 'Every Fifteen Minutes', 'Every Fifteen Minutes'], 
 		['Superrappin', 'Games, Dames In Automobiles', 'Games, Dames In Automobiles'], 
-		['Superrappin', 'Natural On Top', 'Natural On Top']]],
+		['Superrappin', 'Natural On Top', 'Natural On Top']
+		]
+	],
 
 	['puzzle video fall 2005', 
 		[
@@ -3734,7 +4178,9 @@ videoParts = [
 		['Slamtrick In Italy, Torun In Poland', 'Ancient Astronauts', 'Return To Backspin'], 
 		['Almost in Europe #1', 'Afu', 'God Of Rap'], 
 		['Almost in Europe #2', 'Afu', 'Sucka Free'], 
-		['Focus', 'Manuel Margreiter', 'Levante (cancion Linda)']]],
+		['Focus', 'Manuel Margreiter', 'Levante (cancion Linda)']
+		]
+	],
 
 	['puzzle video fall 2006', 
 		[
@@ -3744,7 +4190,9 @@ videoParts = [
 		['Globe in Europe #2', 'Symbolic One & Illmind', 'The Broke Song'], 
 		['Slam Trick in Italy', 'Alexanders Dark Band', 'The Creature'], 
 		['Guys', 'Simon Pedersen, Severin Von Ow', 'Pinball'], 
-		['credits', 'Strange Fruit Project', 'Soul Clap']]],
+		['credits', 'Strange Fruit Project', 'Soul Clap']
+		]
+	],
 
 	['puzzle video fall 2007', 
 		[
@@ -3754,7 +4202,9 @@ videoParts = [
 		['Slam Trick & AmsterDamn Am', 'Gofrilab', 'Justooz'], 
 		['Globe European in Belgium', 'DJ Mighty Mi', 'Raw Jems'], 
 		['Felix May', 'Jon Kennedy', 'Demons'], 
-		['credits', 'Deela', 'Azua Azua (Latin Funk mix)']]],
+		['credits', 'Deela', 'Azua Azua (Latin Funk mix)']
+		]
+	],
 
 	['puzzle video january february 2009', 
 		[
@@ -3762,7 +4212,9 @@ videoParts = [
 		['Dino Brand\xc3\xa3o & Henrique Gon\xc3\xa7alves', 'The Zoo', 'Why We Do It'], 
 		['montage #1', 'Simon Finkas', 'Jazzed'], 
 		['montage #2', 'Simon Finkas', 'Motion Repeated'], 
-		['montage #3', 'Simon Finkas', 'Eyes Wide Open']]],
+		['montage #3', 'Simon Finkas', 'Eyes Wide Open']
+		]
+	],
 
 	['puzzle video july august 2008', 
 		[
@@ -3770,12 +4222,16 @@ videoParts = [
 		['Globe Tour in Sicily', 'Vicarious Bliss', 'Limousine'], 
 		['montage 1', 'Justice', 'Phantom'], 
 		['montage 2', 'Busy P', 'To Protect and Entertain (feat. Murs)'], 
-		['Manolo Robles', 'Mr Flash', 'Over The Top']]],
+		['Manolo Robles', 'Mr Flash', 'Over The Top']
+		]
+	],
 
 	['puzzle video march april 2008', 
 		[
 		['C1rca Europe in Spain', 'Jon Kennedy', 'Funk Construction'], 
-		['Blind Europe in China', 'Jon Kennedy', 'East is East']]],
+		['Blind Europe in China', 'Jon Kennedy', 'East is East']
+		]
+	],
 
 	['puzzle video march april 2009', 
 		[
@@ -3784,7 +4240,9 @@ videoParts = [
 		['filmer', 'Mark Nickels', 'Lost In The Zoo (DJ Egadz remix)'], 
 		['Volcom Europe in Alicante #1', 'The Teenagers', 'French Kiss'], 
 		['Volcom Europe in Alicante #2', 'The Teenagers', 'Feeling Better'], 
-		['Soichiro Nakajima (2004)', 'The Teenagers', 'Fuck Nicole']]],
+		['Soichiro Nakajima (2004)', 'The Teenagers', 'Fuck Nicole']
+		]
+	],
 
 	['puzzle video may june 2008', 
 		[
@@ -3792,7 +4250,9 @@ videoParts = [
 		['Thomas Nielsen, Michael Nielsen, Soren Nielsen', 'Nortec Collective', 'The Clap'], 
 		['Element Europe', 'Incredible Bongo Band', "Raunchy '73"], 
 		['Alessandro Magnani', 'The Blood Arm', "PS I Love You But I Don't Miss You"], 
-		['Florentin Marfaing (2001)', 'Syd Matters', "My Lover's On The Pier"]]],
+		['Florentin Marfaing (2001)', 'Syd Matters', "My Lover's On The Pier"]
+		]
+	],
 
 	['puzzle video may june 2009', 
 		[
@@ -3801,7 +4261,9 @@ videoParts = [
 		['Adrien Bulard', 'Jon Kennedy', 'Live Test'], 
 		['Giorgio Zattoni', 'Jon Kennedy', 'Demons Fram Fresh Remix'], 
 		['bonus', 'Goofy vs Regular, Eindhoven #1', 'Long And Lonesome Road'], 
-		['bonus', 'Goofy vs Regular, Eindhoven #3', 'Season Of The Witch']]],
+		['bonus', 'Goofy vs Regular, Eindhoven #3', 'Season Of The Witch']
+		]
+	],
 
 	['puzzle video november december 2008', 
 		[
@@ -3809,7 +4271,9 @@ videoParts = [
 		['Greetings from Belgium', 'TK Webb & The Visions', 'Teen Is Still Shaking'], 
 		['Samu Karvonen #1', 'Langhorne Slim', 'Restless'], 
 		['Samu Karvonen #2', 'El Perro del Mar', 'Glory To The World'], 
-		['Globe World Cup Skateboarding 2005', 'Wild Sweet Orange', 'Ten Dead Dogs']]],
+		['Globe World Cup Skateboarding 2005', 'Wild Sweet Orange', 'Ten Dead Dogs']
+		]
+	],
 
 	['puzzle video november december 2009', 
 		[
@@ -3817,7 +4281,9 @@ videoParts = [
 		['Jumble', 'Kaleb Brown', 'Strange Dreams'], 
 		['Zev van Sluysdam', 'Eggplant Mustafa & Mafugio Mafungo', 'Exclamatory Reaction'], 
 		['Derek Fukuhara', 'Frameworks', 'First Step'], 
-		['Outro', 'John Kennedy', 'Boom Clack']]],
+		['Outro', 'John Kennedy', 'Boom Clack']
+		]
+	],
 
 	['puzzle video september october 2008', 
 		[
@@ -3825,7 +4291,9 @@ videoParts = [
 		['C1rca Europe in Greece', 'Kabanjak', 'Clap Your Hands'], 
 		['Globe in Denmark and Germany', 'Protassov', 'Steam & Oil'], 
 		['Thibaud Fradin/Korahn Gayle', 'Protassov & Kinski', 'Eastern'], 
-		['Guy Kampfen (1999)', 'Deela', 'Heartbreaker']]],
+		['Guy Kampfen (1999)', 'Deela', 'Heartbreaker']
+		]
+	],
 
 	['puzzle video spring 2005', 
 		[
@@ -3836,7 +4304,9 @@ videoParts = [
 		['Focus: Eero Anttila', 'Ed Og, Masta Ace & Common', 'Boulevard Connection'], 
 		['credits', 'M83', 'Moonchild'], 
 		['Picnic Table Contest #1', 'M83', "I Guess I'm Floating"], 
-		['Picnic Table Contest #2', 'M83', 'Teen Angst']]],
+		['Picnic Table Contest #2', 'M83', 'Teen Angst']
+		]
+	],
 
 	['puzzle video spring 2006', 
 		[
@@ -3844,7 +4314,9 @@ videoParts = [
 		['Tour', 'Giant Panda', 'Strings'], 
 		['Event', 'Giant Panda', 'Grand Prix'], 
 		['Jumble', 'Colossus', 'Like That'], 
-		['outro', 'John Arnold', '1234 (feat. Paul Randolph)']]],
+		['outro', 'John Arnold', '1234 (feat. Paul Randolph)']
+		]
+	],
 
 	['puzzle video spring 2007', 
 		[
@@ -3854,7 +4326,9 @@ videoParts = [
 		['Xmas Jam in London & Damn AM in Minneapolis', 'My Brightest Diamond', 'Disappear'], 
 		['Blind European tour', 'Nicole Willis & The Soul Investigators', "If This Ain't Love"], 
 		["Flex O'Connor", 'Nicole Willis & The Soul Investigators', "Keep Reachin' Up"], 
-		["Flex O'Connor extended part", 'Entrance', 'Grim Reaper Blues']]],
+		["Flex O'Connor extended part", 'Entrance', 'Grim Reaper Blues']
+		]
+	],
 
 	['puzzle video summer 2005', 
 		[
@@ -3863,7 +4337,9 @@ videoParts = [
 		['Melbourne Australia', 'Kabanjak', 'Clap Your Hands'], 
 		['Globe In Spain', 'Kabanjak', 'Zumbala'], 
 		['Focus', 'Chris Oliver', '707 Team'], 
-		['credits', 'M83', 'Lower Your Eyelids To Die With The Sun']]],
+		['credits', 'M83', 'Lower Your Eyelids To Die With The Sun']
+		]
+	],
 
 	['puzzle video summer 2006', 
 		[
@@ -3872,7 +4348,9 @@ videoParts = [
 		['Global Assault in Melbourne', 'Doctor Flake', 'Hot Stuff'], 
 		['Volcom & friends in Spain', 'Single Frame', 'Underground At Noon'], 
 		['Guys', 'Lightheaded', 'Wrong Way'], 
-		['outro', 'Toy', 'Rabbit Pushing Mower']]],
+		['outro', 'Toy', 'Rabbit Pushing Mower']
+		]
+	],
 
 	['puzzle video summer 2007', 
 		[
@@ -3883,7 +4361,9 @@ videoParts = [
 		['Tampa Am 2007', 'Ramone', 'Shaolin'], 
 		['Almost Impact Tour #1', 'Zeph & Azeem', 'Ay Many'], 
 		['Almost Impact Tour #2', 'Zeph & Azeem', 'Bonus Beats'], 
-		['credits', 'DJ Vadim', 'Black Is The Night (feat. Katherin Deboer)']]],
+		['credits', 'DJ Vadim', 'Black Is The Night (feat. Katherin Deboer)']
+		]
+	],
 
 	['puzzle video winter 2006', 
 		[
@@ -3892,7 +4372,9 @@ videoParts = [
 		['Jumble', 'Sebastien Tellier', 'La Ritournelle'], 
 		['Tour 2', 'Swollen Members', 'Black Magic'], 
 		['Guys', 'Roots Manuva', 'Too Cold'], 
-		['Outro', 'Eedio', 'A75 05h49']]],
+		['Outro', 'Eedio', 'A75 05h49']
+		]
+	],
 
 	['puzzle video winter 2007', 
 		[
@@ -3902,7 +4384,9 @@ videoParts = [
 		['Globe Bowlbash/AmsterDamnAm', 'Keith', 'Back There'], 
 		['C1RCA Tour', 'Zero dB', 'Bongos, Bleeps & Basslines'], 
 		['Shadi Charbel', 'Gofrilab', 'Do Mexico'], 
-		['Credits', 'Bonobo', 'Between The Lines']]],
+		['Credits', 'Bonobo', 'Between The Lines']
+		]
+	],
 
 	['rds eurofest', 
 		[
@@ -3912,7 +4396,9 @@ videoParts = [
 		['Nuvemburg', 'Renee Renee', 'Paper Boy'], 
 		['Barcelona', 'Cory Valach', 'Pure Funk'], 
 		['credits', 'Arron Johnson', 'Arron Johnson'], 
-		['Ryan Decenzo', 'Bulcue One', "U Don't Know"]]],
+		['Ryan Decenzo', 'Bulcue One', "U Don't Know"]
+		]
+	],
 
 	['rds fsu 2002', 
 		[
@@ -3930,7 +4416,9 @@ videoParts = [
 		['Paul Machnau #1', 'The Doors', 'Peace Frog'], 
 		['Paul Machnau #2', 'Ozzy Osbourne', 'I Just Want You'], 
 		['credits', 'Cat Stevens', 'Wild World'], 
-		['bonus', 'safety', 'Safety Dance']]],
+		['bonus', 'safety', 'Safety Dance']
+		]
+	],
 
 	['rds skateboard party', 
 		[
@@ -3947,7 +4435,9 @@ videoParts = [
 		['Swollen Members', 'Black Magic', 'Black Magic'], 
 		['Swollen Members', 'Too Hot', 'Too Hot'], 
 		['Planet Asia', 'Stick And Move (feat. Prodigy)', 'Stick And Move (feat. Prodigy)'], 
-		['Moka Only', 'Red Dragon', 'Red Dragon']]],
+		['Moka Only', 'Red Dragon', 'Red Dragon']
+		]
+	],
 
 	['red dragon canadas deadliest', 
 		[
@@ -3959,7 +4449,9 @@ videoParts = [
 		['Regina', 'Paul Simon', 'The Obvious Child'], 
 		['Winnipeg', 'The Black Keys', "Howlin' For You"], 
 		['Toronto', 'Led Zeppelin', 'When The Levee Breaks'], 
-		['Credits', 'Traveling Wilburys', 'End Of The Line']]],
+		['Credits', 'Traveling Wilburys', 'End Of The Line']
+		]
+	],
 
 	['rodney mullen vs daewon song 1', 
 		[
@@ -3971,7 +4463,9 @@ videoParts = [
 		['World Industries #3', 'Wu', 'Tang Get'], 
 		['A', 'Team', 'Revolution'], 
 		['Blind Team', 'Rolling Stones', "She' a Rainbow"], 
-		['Credits', 'Rony Size', 'Daylight']]],
+		['Credits', 'Rony Size', 'Daylight']
+		]
+	],
 
 	['rodney mullen vs daewon song 2', 
 		[
@@ -3995,7 +4489,9 @@ videoParts = [
 		['Deca #4', 'JB Gillet', 'La Furie et la Foi'], 
 		['Daewon Song #1', 'EPMD', 'Intro'], 
 		['Daewon Song #2', 'Styles of Beyond', 'Tech Nine'], 
-		['Credits', 'Bob Marley', 'Chances Are']]],
+		['Credits', 'Bob Marley', 'Chances Are']
+		]
+	],
 
 	['ruff ryderz 2', 
 		[
@@ -4013,7 +4509,9 @@ videoParts = [
 		['Kevin Skutnik', 'Brian Eno', 'The True Wheel'], 
 		['David Engerer', 'Washed Out', 'New Theory'], 
 		['David Engerer #2', 'Washed Out', 'Belong'], 
-		['Credits', 'Groove Armada', 'At The River']]],
+		['Credits', 'Groove Armada', 'At The River']
+		]
+	],
 
 	['ruff ryderz 3', 
 		[
@@ -4027,7 +4525,9 @@ videoParts = [
 		['David Engerer', 'The Black Angels', 'The Sniper'], 
 		['Alex Knox', 'The Brian Jonestown Massacre', 'Psychedelic Sunday'], 
 		['Mike Krok', 'The Dandy Warhols', 'Up (part 1)'], 
-		['Credits', 'Ruff Ryders', 'Ryde Or Die']]],
+		['Credits', 'Ruff Ryders', 'Ryde Or Die']
+		]
+	],
 
 	['shortys fulfill the dream', 
 		[
@@ -4048,7 +4548,9 @@ videoParts = [
 		['Chad Muska intro #1', 'Hi', 'A Mind Is a Terrible Thang'], 
 		['Chad Muska intro #2', 'Eliades Ochoa', 'Chan Chan'], 
 		['Chad Muska', 'Some Muska Beatz track', 'Some Muska Beatz track'], 
-		['credits', 'Smokey Robinson & The Miracles', 'The Tears of a Clown']]],
+		['credits', 'Smokey Robinson & The Miracles', 'The Tears of a Clown']
+		]
+	],
 
 	['shortys guilty', 
 		[
@@ -4063,7 +4565,9 @@ videoParts = [
 		['Peter Smolik intro', 'John Savino', 'John Savino'], 
 		['Peter Smolik', 'Tha Federalz', 'Alias, Oshen, MP'], 
 		['Chad Muska', 'Muskabeatz', 'Reprazent'], 
-		['credits', 'Track Squad', 'Poke It Out']]],
+		['credits', 'Track Squad', 'Poke It Out']
+		]
+	],
 
 	['shortys hardware team video', 
 		[
@@ -4077,7 +4581,9 @@ videoParts = [
 		['Ozzy Osbourne', 'Crazy Train', 'Crazy Train'], 
 		['Garth Brooks', 'Friends In Low Places', 'Friends In Low Places'], 
 		['AC/DC', 'You Shook Me All Night Long', 'You Shook Me All Night Long'], 
-		['Commodores', 'Brickhouse', 'Brickhouse']]],
+		['Commodores', 'Brickhouse', 'Brickhouse']
+		]
+	],
 
 	['static', 
 		[
@@ -4095,7 +4601,9 @@ videoParts = [
 		['Sean Mullendore', 'Led Zeppelin', 'What Is And What Should Never Be'], 
 		['Washington D.C.', 'Jeru The Damaja', 'Statik'], 
 		['Credits', 'Pavement', 'Silence Kit'], 
-		['Jake Rupp', 'DJ Cheb i Sabbah', 'Ganga Dev']]],
+		['Jake Rupp', 'DJ Cheb i Sabbah', 'Ganga Dev']
+		]
+	],
 
 	['static 2 the invisibles', 
 		[
@@ -4115,7 +4623,9 @@ videoParts = [
 		['Bobby Puleo', 'The Kinks', 'Shangri La'], 
 		['Kenny Reed #1', 'The Shins', 'So Says I'], 
 		['Kenny Reed #2', 'DJ Cheb i Sabbah', 'Radhe Krishna'], 
-		['Credits', 'The Warlocks', 'Left and Right of the Moon']]],
+		['Credits', 'The Warlocks', 'Left and Right of the Moon']
+		]
+	],
 
 	['static 3', 
 		[
@@ -4134,7 +4644,9 @@ videoParts = [
 		['Nate Broussard #2', 'T. Rex', 'Ride A White Swan'], 
 		['montage 2', 'Oliver Sain', 'St. Louis Breakdown'], 
 		['credits', 'The Warlocks', 'Suicide Note'], 
-		['trailer', 'Gang Starr', 'Speak Ya Clout']]],
+		['trailer', 'Gang Starr', 'Speak Ya Clout']
+		]
+	],
 
 	['static 4', 
 		[
@@ -4172,13 +4684,17 @@ videoParts = [
 		['Static V', 'Jahmal Williams #1', 'Egypt, Egypt'], 
 		['Static V', 'Jahmal Williams #2', 'Change in Speak'], 
 		['Static V', 'Credits #1', 'Written on the Wall'], 
-		['Static V', 'Credits #2', 'Natural Mystic (Cover)']]],
+		['Static V', 'Credits #2', 'Natural Mystic (Cover)']
+		]
+	],
 
 	['stereo a journey through sound', 
 		[
 		['Serge Gainsbourg', 'Bonnie & Clyde (feat. Brigitte Bardot)', 'Bonnie & Clyde (feat. Brigitte Bardot)'], 
 		['Serge Gainsbourg', "L'anamour", "L'anamour"], 
-		['Jacqueline Taieb', 'Le Coeur Au Bout Des Doigts', 'Le Coeur Au Bout Des Doigts']]],
+		['Jacqueline Taieb', 'Le Coeur Au Bout Des Doigts', 'Le Coeur Au Bout Des Doigts']
+		]
+	],
 
 	['stereo a visual sound', 
 		[
@@ -4189,12 +4705,16 @@ videoParts = [
 		['TG', 'Blues for Bukowski', 'Blues for Bukowski'], 
 		['Ululation', 'Hunca Munca', 'Hunca Munca'], 
 		['Ululation', 'Utensil', 'Utensil'], 
-		['Ululation', 'Brouhaha', 'Brouhaha']]],
+		['Ululation', 'Brouhaha', 'Brouhaha']
+		]
+	],
 
 	['supreme a love supreme', 
 		[
 		['#1', 'John Coltrane', 'Acknowledgement'], 
-		['#2', 'John Coltrane', 'Resolution']]],
+		['#2', 'John Coltrane', 'Resolution']
+		]
+	],
 
 	['supreme cherry', 
 		[
@@ -4207,7 +4727,9 @@ videoParts = [
 		['Dylan Rieder and Alex Olson', 'INXS', 'Never Tear Us Apart'], 
 		['Montage #6', 'Chef Raekwon', 'Glaciers of Ice'], 
 		['Montage #7', 'Group Home', 'Baby Pa'], 
-		['Credits', 'Salem', '666']]],
+		['Credits', 'Salem', '666']
+		]
+	],
 
 	['team ice cream volume 1', 
 		[
@@ -4216,7 +4738,9 @@ videoParts = [
 		['Jacob Walder', 'Clipse', 'Mr. Me Too (feat. Pharrell Williams)'], 
 		['Cato Williams', 'Fam', 'Strung Out'], 
 		['Night Session', 'Zion I', 'The Drill (nstrumental)'], 
-		['credits', 'Pharrell Williams', 'Can I Have It Like That (feat. Gwen Stefani)']]],
+		['credits', 'Pharrell Williams', 'Can I Have It Like That (feat. Gwen Stefani)']
+		]
+	],
 
 	['thrasher firing squad', 
 		[
@@ -4229,7 +4753,9 @@ videoParts = [
 		['Visionaries', 'Honorable Mention', 'Honorable Mention'], 
 		['Sacred Hoop', 'Blindfolded', 'Blindfolded'], 
 		['The Bodies', 'Pity', 'Pity'], 
-		['Fugazi', 'Smallpox Champion', 'Smallpox Champion']]],
+		['Fugazi', 'Smallpox Champion', 'Smallpox Champion']
+		]
+	],
 
 	['thrasher jaded', 
 		[
@@ -4244,7 +4770,9 @@ videoParts = [
 		['Tony Manfre', 'Dk3', 'The Travling Salesman'], 
 		['Powell', 'McRad', 'Weakness'], 
 		['Enjoi Tour', 'Sue Garner & Rick Brown', 'Asphalt Road'], 
-		['credits', 'Nick Freitas', 'All The Time Int The World']]],
+		['credits', 'Nick Freitas', 'All The Time Int The World']
+		]
+	],
 
 	['thrasher timebomb', 
 		[
@@ -4263,7 +4791,9 @@ videoParts = [
 		['Pat Washington', 'P.W. Esquire', 'Sco Dwellers'], 
 		['Graham Bickerstaff #1', 'Sacred Hoop', 'Monet'], 
 		['Graham Bickerstaff #2', 'Sacred Hoop', 'Girls Are Dope'], 
-		['Josh Falk #1', 'Sacred Hoop', '18 to Nothin']]],
+		['Josh Falk #1', 'Sacred Hoop', '18 to Nothin']
+		]
+	],
 
 	['thrasher under the bridge', 
 		[
@@ -4275,7 +4805,9 @@ videoParts = [
 		['Bordertown', 'The Party Downers', 'Fashun'], 
 		['Washington Street', 'Bison', 'Slow Hand Of Death'], 
 		['Burnside', 'Hightower', 'The Dualogy'], 
-		['Credits', 'Toys That Kill', 'Playdough']]],
+		['Credits', 'Toys That Kill', 'Playdough']
+		]
+	],
 
 	['toy machine good and evil', 
 		[
@@ -4304,7 +4836,9 @@ videoParts = [
 		['Bonus', 'Photos: Good & Evil Tour 2004', 'The Moon Is Down'], 
 		['Bonus', 'Photos: Good & Evil Ad Gallery', 'One Most Memorable'], 
 		['Bonus', 'Photos: Europe', 'Your Hand In Mine'], 
-		['Bonus', 'Photos: Epic Insanty Core', 'The Only Moment We Were Alone']]],
+		['Bonus', 'Photos: Epic Insanty Core', 'The Only Moment We Were Alone']
+		]
+	],
 
 	['toy machine heavy metal', 
 		[
@@ -4316,7 +4850,9 @@ videoParts = [
 		['Jamie Thomas', 'Gloria Gaynor', 'I Will Survive'], 
 		['bails', 'Metallica', 'Whiplash'], 
 		['credits #1', 'Canned Heat', 'On The Road Again'], 
-		['credits #2', 'Dan McLean', 'American Pie']]],
+		['credits #2', 'Dan McLean', 'American Pie']
+		]
+	],
 
 	['toy machine jump off a building', 
 		[
@@ -4332,7 +4868,9 @@ videoParts = [
 		['Kerry Getz Busy', 'DJ Krush', 'Kemuri'], 
 		['Hell', 'Gorguts', 'Odors Of Existence'], 
 		['Credits', 'Jon Spencer Blues Explosion', 'Fuck Shit Up'], 
-		['Bonus', 'Billy Idol', 'White Wedding']]],
+		['Bonus', 'Billy Idol', 'White Wedding']
+		]
+	],
 
 	['toy machine welcome to hell', 
 		[
@@ -4349,7 +4887,9 @@ videoParts = [
 		['Jamie Thomas', 'Iron Maiden', 'Hallowed Be Thy Name'], 
 		['credits', 'Santana', 'Samba Pa Ti'], 
 		['bonus', 'Muska', 'Right Now'], 
-		['bails', 'D.R.I.', 'Do The Dream']]],
+		['bails', 'D.R.I.', 'Do The Dream']
+		]
+	],
 
 	['transworld anthology', 
 		[
@@ -4363,7 +4903,9 @@ videoParts = [
 		['Night Montage', 'Trans Am', 'MOTR'], 
 		['Chad Muska #1', 'Atiba', 'Ah Yeah 2'], 
 		['Chad Muska #2', 'Chad Muska', 'Stabason'], 
-		['Credits', 'Atiba', 'Ah Yeah 8']]],
+		['Credits', 'Atiba', 'Ah Yeah 8']
+		]
+	],
 
 	['transworld feedback', 
 		[
@@ -4394,7 +4936,9 @@ videoParts = [
 		['Bonus', 'Dill Cam, The Wedge', 'Calibrate'], 
 		['Bonus', 'Ali and Jim', 'Find It (feat. Atiba)'], 
 		['Bonus', 'Geoff Gets Arrested', 'track 8'], 
-		['Bonus', 'Credits', 'Hammers for Swords']]],
+		['Bonus', 'Credits', 'Hammers for Swords']
+		]
+	],
 
 	['transworld free your mind', 
 		[
@@ -4412,7 +4956,9 @@ videoParts = [
 		['Credits #1', 'The Sadies', 'A#1'], 
 		['Credits #2', 'Cumulonimbus', 'Skunk'], 
 		['Bonus', 'From Ojay to AZ #1', 'Starhok'], 
-		['Bonus', 'Canada', 'Milkboy']]],
+		['Bonus', 'Canada', 'Milkboy']
+		]
+	],
 
 	['transworld ie', 
 		[
@@ -4425,7 +4971,9 @@ videoParts = [
 		['Rob Dyrdek & Caine Gayle', 'DJ DNO', 'The TF Track'], 
 		['Stress Montage', 'Tristeza', 'Opiate Slopes'], 
 		['Diego Bucchieri', 'Turing Machine', 'Robotronic'], 
-		['Credits', 'Atiba', 'Ah Yeah 9']]],
+		['Credits', 'Atiba', 'Ah Yeah 9']
+		]
+	],
 
 	['transworld in bloom', 
 		[
@@ -4446,7 +4994,9 @@ videoParts = [
 		['Bonus', 'Skid Row #1', "Look at That Car, It's Full of Balloons"], 
 		['Bonus', 'Skid Row #2', '(Gotta Get Some Action) Now!'], 
 		['Bonus', 'New Zealand', 'track #6'], 
-		['Bonus', 'Dodger bowl', 'Dr. Laura']]],
+		['Bonus', 'Dodger bowl', 'Dr. Laura']
+		]
+	],
 
 	['transworld modus operandi', 
 		[
@@ -4458,7 +5008,9 @@ videoParts = [
 		['Mike Carroll', 'Kurupt', 'Trylogy'], 
 		['Stress Montage', 'Spiritualized', 'Ladies and Gentleman We Are Floating in Space'], 
 		['Brian Anderson', 'Chad Muska', 'Master B'], 
-		['Credits', 'Atiba', 'Ah Yeah 6']]],
+		['Credits', 'Atiba', 'Ah Yeah 6']
+		]
+	],
 
 	['transworld sight unseen', 
 		[
@@ -4473,7 +5025,9 @@ videoParts = [
 		['Soul Blader Segway', 'The Higher Burning Fire', 'Year'], 
 		['Heath Kirchart', 'The Moody Blues', 'Nights in White Satin'], 
 		['Credits #1', 'Jet Black Crayon', 'Life Vest'], 
-		['Credits #2', 'Atiba', "Chick 'N' Stew"]]],
+		['Credits #2', 'Atiba', "Chick 'N' Stew"]
+		]
+	],
 
 ['transworld subtleties', 
 		[
@@ -4489,7 +5043,9 @@ videoParts = [
 		['Stefan Janoski Intro', 'JT for Mr. E Productions', 'Feel Free'], 
 		['Stefan Janoski', 'Modest Mouse', 'Paper Thin Walls'], 
 		['Credits', 'Emperor Penguin', 'Streets and Stars'], 
-		['Bonus', 'Miami', 'Come On (Go Stereo)']]],
+		['Bonus', 'Miami', 'Come On (Go Stereo)']
+		]
+	],
 
 	['transworld the reason', 
 		[
@@ -4521,7 +5077,9 @@ videoParts = [
 		['$22.00', 'Innercore Productions', 'track 9'], 
 		['Work', 'Chrime in Choir', 'track 3'], 
 		['Soap Shoes', '456 Productions', 'track 16'], 
-		['Credits', '456 Productions', 'track 6']]],
+		['Credits', '456 Productions', 'track 6']
+		]
+	],
 
 	['transworld the sixth sense', 
 		[
@@ -4533,7 +5091,9 @@ videoParts = [
 		['Frank Hirata', 'Polvo', 'Can I Ride'], 
 		['Josh Kalis', 'Company Flow', 'Vital Nerve'], 
 		['Montage 3', 'Trans Am', 'Stereo Situation'], 
-		['Credits', 'Atiba', 'Ah Yeah 2']]],
+		['Credits', 'Atiba', 'Ah Yeah 2']
+		]
+	],
 
 	['transworld transmission 7', 
 		[
@@ -4569,7 +5129,9 @@ videoParts = [
 		['Segway #13', 'Squarepusher', 'Drunken Style'], 
 		['Segway #14', 'Squarepusher', 'Ruin'], 
 		['Segway #15', 'Squarepusher', 'Step 1'], 
-		['Credits', 'Eminem', "Just Don't Give a Fuck"]]],
+		['Credits', 'Eminem', "Just Don't Give a Fuck"]
+		]
+	],
 
 	['transworld uno', 
 		[
@@ -4594,7 +5156,9 @@ videoParts = [
 		['Chad Muska', 'The Pharcyde', "Runnin'"], 
 		['Chris Lambert, Caine Gayle, Jason Maxwell', 'Hurricane', 'Now You Do'], 
 		['Willy Santos', 'The Greyboy Allstars', 'Eater'], 
-		['Credits', 'The Friends Of Dean Martinez', 'All The Pretty Horses']]],
+		['Credits', 'The Friends Of Dean Martinez', 'All The Pretty Horses']
+		]
+	],
 
 	['transworld videoradio', 
 		[
@@ -4613,7 +5177,9 @@ videoParts = [
 		['Zurich Street Skating', 'Chad Muska', 'Raw Material'], 
 		['Goodbye Muska & Jamie', 'Atiba', 'Bot 2'], 
 		['Milan', 'Couch', 'Camaro'], 
-		['Credits', 'Atiba', 'Bot 3']]],
+		['Credits', 'Atiba', 'Bot 3']
+		]
+	],
 
 	['tsa life in the fast lane', 
 		[
@@ -4626,7 +5192,9 @@ videoParts = [
 		['James Brown', 'Sex Machine', 'Sex Machine'], 
 		['De La Soul', 'Ghetto Thang', 'Ghetto Thang'], 
 		['De La Soul', 'Say No Go', 'Say No Go'], 
-		['Sadat', "Hang 'Em High", "Hang 'Em High"]]],
+		['Sadat', "Hang 'Em High", "Hang 'Em High"]
+		]
+	],
 
 	['world industries 20 shot sequence', 
 		[
@@ -4638,7 +5206,9 @@ videoParts = [
 		['Method Man', 'Mr. Sandman', 'Mr. Sandman'], 
 		['Redman', 'Time 4 Sum Aksion', 'Time 4 Sum Aksion'], 
 		['The Rolling Stones', 'Get Off Of My Cloud', 'Get Off Of My Cloud'], 
-		['Howlin Wolf & Willie Dixon', 'Built For Comfort', 'Built For Comfort']]],
+		['Howlin Wolf & Willie Dixon', 'Built For Comfort', 'Built For Comfort']
+		]
+	],
 
 	['world industries its your world', 
 		[
@@ -4649,7 +5219,9 @@ videoParts = [
 		['Montage', 'The White Stripes', 'Hypnotize'], 
 		['Cody Davis', 'Florence + The Machine', 'Kiss With A Fist'], 
 		['Matt Mendenhall & Mike Franklin', 'Jethro Tull', "Something's On The Move"], 
-		['Andrew Cannon', 'DeVotchKa', 'The Clockwise Witness']]],
+		['Andrew Cannon', 'DeVotchKa', 'The Clockwise Witness']
+		]
+	],
 
 	['world industries love child', 
 		[
@@ -4663,7 +5235,9 @@ videoParts = [
 		['Jovontae Turner', 'Stevie Wonder', 'I Wish'], 
 		['Daewon Song #1', 'The Supremes', 'Love Child'], 
 		['Daewon Song #2', 'The Osmonds', 'One Bad Apple'], 
-		['Slow', 'Mo & Credits', 'America The Beautiful']]],
+		['Slow', 'Mo & Credits', 'America The Beautiful']
+		]
+	],
 
 	['world industries trilogy', 
 		[
@@ -4686,7 +5260,9 @@ videoParts = [
 		['Shiloh Greathouse', 'Mary J. Blige', 'I Love You'], 
 		['Daewon Song', 'Pato Banton', 'Absolute Perfection'], 
 		['Credits', 'Marvin Gaye', 'T Plays It Cool'], 
-		['Gideon Choi', 'Stevie Wonder', 'Sugar']]],
+		['Gideon Choi', 'Stevie Wonder', 'Sugar']
+		]
+	],
 
 	['zero dying to live', 
 		[
@@ -4706,7 +5282,9 @@ videoParts = [
 		['Jamie Thomas #3', 'Metallica', 'Ecstacy of Gold'], 
 		['Slams', 'Lard', 'Forkboy'], 
 		['Credits', 'Archers of Loaf', 'White Trash Heroes'], 
-		['Outro', 'Derek & The Dominos', 'Layla']]],
+		['Outro', 'Derek & The Dominos', 'Layla']
+		]
+	],
 
 	['zero misled youth', 
 		[
@@ -4724,7 +5302,9 @@ videoParts = [
 		['Slams', 'The Rolling Stones', "You can't always get what you want"], 
 		['Credits', 'Samhain', 'The Howl Archangel'], 
 		['Final Montage #1', 'Ramones', 'I Wanna Live'], 
-		['Final Montage #2', 'Creedence Clearwater Revival', 'I Heard It Through the Grapevine']]],
+		['Final Montage #2', 'Creedence Clearwater Revival', 'I Heard It Through the Grapevine']
+		]
+	],
 
 	['zero thrill of it all', 
 		[
@@ -4737,20 +5317,26 @@ videoParts = [
 		['Aaron Harrison', 'The Who', 'The Real Me'], 
 		['Matt Mumford', 'Radio Birdman', 'Early Morning Gunk'], 
 		['Jamie Thomas', 'The Chambers Brothers', 'The Time Has Come Today'], 
-		['Credits', 'Arthur Fiedler & The Boston Pops', '(American Salute) When Johnny Comes Marching Home']]],
+		['Credits', 'Arthur Fiedler & The Boston Pops', '(American Salute) When Johnny Comes Marching Home']
+		]
+	],
 
 	['zoo york city of killers', 
 		[
 		['Canada', 'Troy Dunnit', 'Not Gangsta'], 
 		['England & Outro', 'Dark circle', 'Euro Stars'], 
-		['Bonus Footage', 'Neptunes', 'Rock Star (live)']]],
+		['Bonus Footage', 'Neptunes', 'Rock Star (live)']
+		]
+	],
 
 	['zoo york ellis island', 
 		[
 		['T.I', 'Bring Em Out (feat. Jay', 'Z)'], 
 		['Gang Starr', 'New York Strait Talk', 'New York Strait Talk'], 
 		['Sean Price', 'Boom Bye Yeah', 'Boom Bye Yeah'], 
-		['Ace Frehley', 'New York Groove', 'New York Groove']]],
+		['Ace Frehley', 'New York Groove', 'New York Groove']
+		]
+	],
 
 	['zoo york est', 
 		[
@@ -4763,7 +5349,9 @@ videoParts = [
 		['Company Flow', 'Worker Ant Uprise', 'Worker Ant Uprise'], 
 		['The Allies', 'D', 'Day'], 
 		['Mr. Len', 'Straight 12 (feat. Q', 'Unique)'], 
-		['DJ Q', 'bert', 'Turntable TV']]],
+		['DJ Q', 'bert', 'Turntable TV']
+		]
+	],
 
 	['zoo york est 3', 
 		[
@@ -4773,7 +5361,9 @@ videoParts = [
 		['Enoch', 'Reggae Beat', 'Reggae Beat'], 
 		['Enoch', 'Shillz Nillz', 'Shillz Nillz'], 
 		['Enoch', 'Space Cadet', 'Space Cadet'], 
-		['Ace High', 'Get That Doe (feat. D.Fox)', 'Get That Doe (feat. D.Fox)']]],
+		['Ace High', 'Get That Doe (feat. D.Fox)', 'Get That Doe (feat. D.Fox)']
+		]
+	],
 
 	['zoo york est4', 
 		[
@@ -4791,7 +5381,9 @@ videoParts = [
 		['credits', 'Enoch', 'Eyes on the road'], 
 		['bonus', 'Germany #2', "If I can't (instrumental)"], 
 		['bonus', 'Madrid / San Sebastien #1', 'P.I.M.P. (instrumental)'], 
-		['bonus', 'Switzerland #2', 'Like I love you (instrumental)']]],
+		['bonus', 'Switzerland #2', 'Like I love you (instrumental)']
+		]
+	],
 
 	['zoo york field agent report', 
 		[
@@ -4799,14 +5391,18 @@ videoParts = [
 		['montage #2', 'Sayvinyl', 'The New Pope'], 
 		['montage #3', 'Skam2 feat. Shadowman', 'Flame & Game'], 
 		['montage #4', 'Monsta X', 'Lion On My Arm'], 
-		['Kevin Tierney', 'Electric Polygon', 'The Triangle']]],
+		['Kevin Tierney', 'Electric Polygon', 'The Triangle']
+		]
+	],
 
 	['zoo york king of new york', 
 		[
 		['Jadakiss', 'New York Minute', 'New York Minute'], 
 		['Nas', 'Talk of New York', 'Talk of New York'], 
 		['Big Pun feat. Inspecta Deck & Prodigy', 'Tres Leches (Triboro Trilogy)', 'Tres Leches (Triboro Trilogy)'], 
-		['Dan The Automator feat. Kool Keith', 'King of N.Y.', 'King of N.Y.']]],
+		['Dan The Automator feat. Kool Keith', 'King of N.Y.', 'King of N.Y.']
+		]
+	],
 
 	['zoo york state of mind', 
 		[
@@ -4828,7 +5424,9 @@ videoParts = [
 		['Bonus', 'International Squad', 'Set Me Free (feat. Prodigy & Nyce)'], 
 		['Bonus', 'Flow Team', 'Life or Death'], 
 		['Trailer 1', 'Masta Killa', 'Whateva'], 
-		['Trailer 2', 'Mr. Green', 'June 2007 4']]],
+		['Trailer 2', 'Mr. Green', 'June 2007 4']
+		]
+	],
 
 	['zoo york unbreakable mix tape 2', 
 		[
@@ -4842,12 +5440,17 @@ videoParts = [
 		['A', 'Trak', 'Beatdown Routine'], 
 		['Tragedy', 'Art Of Boards', 'Art Of Boards'], 
 		['Enoch', 'Krylon', 'Krylon'], 
-		['Skam', 'Freestyle', 'Freestyle']]],
+		['Skam', 'Freestyle', 'Freestyle']
+		]
+	],
 
 	['zoo york welcome to zoo york city', 
 		[
 		['Intro', 'AC/DC', 'Safe In New York City'], 
 		['Brandon Westgate & Anthony Shetler', "Cam'ron", 'Welcome to New York City'], 
 		['Aaron Suski', 'Led Zeppelin', 'Whole Lotta Love'], 
-		['Credits', 'Kool G Rap & DJ Polo', 'Streets Of New York']]],
+		['Credits', 'Kool G Rap & DJ Polo', 'Streets Of New York']
+		]
+	]
+]
 
