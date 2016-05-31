@@ -35,8 +35,23 @@ for i in range(0, int(query)):
 	video = random.choice(videoParts)
 	title = video[0]
 	part = random.choice(video[1])
+	skater = part[0]
+	artist = part[1]
+	song = part[2]
+	if artist == song: 
+		artist = skater
+		skater = "No Part/Skater Listed"
+
+
+	trackPrint = (artist + " - " + song)
+	storeTrack = (artist + " " + song)
 	print("\nTITLE: " + title)
-	print("PART: " + ", ".join(part))
+	print("PART: " + skater)
+	print("TRACK: " + trackPrint)
+	partArr = [title,skater,storeTrack]
+	playlist.append(partArr)
+
+print(playlist)
 	# for row in tracklist.find_all("td"):
 	# 	pageText = row.get_text().encode('utf-8')
 	# 	arr = ["?"]

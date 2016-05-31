@@ -4809,37 +4809,6 @@ videoParts = [
 		]
 	],
 
-	['toy machine good and evil', 
-		[
-		['Ed Templeton', 'Spell', 'Hazel Motes'], 
-		['Intro', 'Dinosaur Jr', 'Kracked'], 
-		['Josh Harmony', 'Sebadoh', 'flame'], 
-		['Austin Stephens', 'Peggy Honeywell', 'Sing Sung Saing'], 
-		['Matt Bennett', 'T. Rex', '20th Century Boy'], 
-		['Johnny Layton', 'Patti Smith', 'Free Money'], 
-		['Billy Marks #1', 'Franz Ferdinand', 'Jacqueline'], 
-		['Billy Marks #2', 'Ladytron', 'Blue Jeans'], 
-		['Diego Bucchieri', 'Rata Blanca', 'Leyenda del Hada y el Mago'], 
-		['Credits', 'Explosions In The Sky', 'First Breath After Coma'], 
-		['Bonus', "Billy's Leftover Crap", 'Degobrah'], 
-		['Bonus', "Ed's Trash", 'Stomachache Due to the Sincere Belief That the Rest of My Band Is Tryin'], 
-		['Bonus', "Ed's Art Film #1", 'track 2'], 
-		['Bonus', "Ed's Art Film #2", 'Neumond Inselhin'], 
-		['Bonus', 'Trailer 1', 'Heart of the sunrise'], 
-		['Bonus', 'Trailer 2', "A Poor Man's Memory"], 
-		['Bonus', 'Toy Machine in Europe', 'Disturbet'], 
-		['Bonus', "Ed's Pro Setup", 'Life is Grand'], 
-		['Bonus', 'Good & Evil US Tour 2004', 'Prodigal Stones Blues'], 
-		['Bonus', "Kevin's Super Artsy Extendend Super 8", 'Peach Skies'], 
-		['Bonus', 'Photos: Berzerker Tour 2002', 'Jololinine'], 
-		['Bonus', 'Photos: Sucking The Life Tour 2003', "I Can't See Anything When I Close My Eyes (live)"], 
-		['Bonus', 'Photos: Good & Evil Tour 2004', 'The Moon Is Down'], 
-		['Bonus', 'Photos: Good & Evil Ad Gallery', 'One Most Memorable'], 
-		['Bonus', 'Photos: Europe', 'Your Hand In Mine'], 
-		['Bonus', 'Photos: Epic Insanty Core', 'The Only Moment We Were Alone']
-		]
-	],
-
 	['toy machine heavy metal', 
 		[
 		['intro', 'ZZ Top', 'La Grange'], 
@@ -5181,21 +5150,6 @@ videoParts = [
 		]
 	],
 
-	['tsa life in the fast lane', 
-		[
-		['The Eagles', 'Life In The Fast Lane', 'Life In The Fast Lane'], 
-		['Raekwon', 'Guillotinz (Swordz)', 'Guillotinz (Swordz)'], 
-		['James Brown', 'The Payback', 'The Payback'], 
-		['The Roots', 'Panic', 'Panic'], 
-		['Steve Miller Band', 'Fly Like An Eagle', 'Fly Like An Eagle'], 
-		['Deep Purple', 'Highway Star', 'Highway Star'], 
-		['James Brown', 'Sex Machine', 'Sex Machine'], 
-		['De La Soul', 'Ghetto Thang', 'Ghetto Thang'], 
-		['De La Soul', 'Say No Go', 'Say No Go'], 
-		['Sadat', "Hang 'Em High", "Hang 'Em High"]
-		]
-	],
-
 	['world industries 20 shot sequence', 
 		[
 		['Kool G Rap & DJ Polo', 'On The Run', 'On The Run'], 
@@ -5207,35 +5161,6 @@ videoParts = [
 		['Redman', 'Time 4 Sum Aksion', 'Time 4 Sum Aksion'], 
 		['The Rolling Stones', 'Get Off Of My Cloud', 'Get Off Of My Cloud'], 
 		['Howlin Wolf & Willie Dixon', 'Built For Comfort', 'Built For Comfort']
-		]
-	],
-
-	['world industries its your world', 
-		[
-		['Anthony Shetler Intro', 'Randy Newman', 'Political Science'], 
-		['Anthony Shetler', 'Marvin Gaye', 'You'], 
-		['Timmy Knuth', 'Brian Eno', "Baby's On Fire"], 
-		['Zack Kuehne & Chris Mathis', 'Brian Jonestown Massacre', 'When Jokers Attack'], 
-		['Montage', 'The White Stripes', 'Hypnotize'], 
-		['Cody Davis', 'Florence + The Machine', 'Kiss With A Fist'], 
-		['Matt Mendenhall & Mike Franklin', 'Jethro Tull', "Something's On The Move"], 
-		['Andrew Cannon', 'DeVotchKa', 'The Clockwise Witness']
-		]
-	],
-
-	['world industries love child', 
-		[
-		['Randy Colvin', 'Dion and the Belmonts', 'The Wanderer'], 
-		['Chico Brenes', 'Steppenwolf', 'Born To Be Wild'], 
-		['Daniel Castillo', 'Diana Ross And The Supremes', 'Baby Love'], 
-		['Jed Walters', 'Tokens', 'The Lion Sleeps Tonight'], 
-		['Chris Branagh', 'Leroy Pullins', "I'm A Nut"], 
-		['Shiloh Greathouse', 'Three Dog Night', 'Black And White'], 
-		['Spencer Fujimoto', 'Hair Soundtrack', 'Hair'], 
-		['Jovontae Turner', 'Stevie Wonder', 'I Wish'], 
-		['Daewon Song #1', 'The Supremes', 'Love Child'], 
-		['Daewon Song #2', 'The Osmonds', 'One Bad Apple'], 
-		['Slow', 'Mo & Credits', 'America The Beautiful']
 		]
 	],
 
