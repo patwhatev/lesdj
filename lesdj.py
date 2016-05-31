@@ -7,7 +7,8 @@ from bs4 import BeautifulSoup
 import os
 import re
 import urls
-import videoParts
+from urls import urlArr
+import videoparts
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -21,13 +22,8 @@ print('$$ |      $$ |      $$\   $$ |$$ |  $$ |$$ |  $$ |')
 print('$$$$$$$$\ $$$$$$$$\ \$$$$$$  |$$$$$$$  |\$$$$$$  |')
 print('\________|\________| \______/ \_______/  \______/ ')
 
-# query = raw_input(' \n\n\nENTER TEXT HERE: ')
 print("\nRUNNING\n")
 
-#Log the video title 
-#(Take the URL and use regex to clean it up)
-#Fetch the table, pull a random row 
-#Clean the text for querying, store artist/songName
 #Query and store a link for each track
 #Serve video in iframe, clickable links for each
 
@@ -38,45 +34,53 @@ rand_urls = random.sample(urls.urlArr, 25)
 print("\nGathering urls. . . \n")
 playlist = []
 
-for i in range(0, 24):
+for i in range(2244, 2355):
 	soundtrack = []
-	print("heading to: " + rand_urls[i])
-	driver.get(rand_urls[i])
+	print("heading to: " + urlArr[i])
+	driver.get(urlArr[i])
 	url = driver.current_url 
 	urlString = str(url)
 	titleString = str(urlString.split('/')[4])
-	final = re.sub('-',' ',titleString)
-	print("TITLE:")
-	print(final)
+	title = re.sub('-',' ',titleString)
+	print("FOUND TITLE:")
+	print(title)
 	r = requests.get(url)
 	soup = BeautifulSoup(r.content, "html.parser")
-	for webpage in soup.find_all("tr", {"class" : "list"}):
-		pageText = webpage.get_text().encode('utf-8')
-		arr = ["1","2","3","4","5"]
+	tracklist = soup.find("table", {"id" : "soundtracklist"})
+	for row in tracklist.find_all("td"):
+		pageText = row.get_text().encode('utf-8')
+		arr = ["?"]
 		if "-" in pageText and any(x not in pageText for x in arr):
 			splitStr = pageText.split("-")
-			if len(splitStr) <= 2:
+			if len(splitStr) < 2:
 				continue
 
-			part = splitStr[0]
-			artist = splitStr[1]
-			song = splitStr[-1]
-			print('PART:')
-			print(part)
-			print('ARTIST:')
-			print(artist)
-			print('SONG:')
-			print(song)
-			partArr = [final,part,artist,song] 
+			part = splitStr[0].strip()
+			artist = splitStr[1].strip()
+			song = splitStr[-1].strip()
+			# print('PART:')
+			# print(part)
+			# print('ARTIST:')
+			# print(artist)
+			# print('SONG:')
+			# print(song)
+			partArr = [part,artist,song] 
 			soundtrack.append(partArr)
 
 	if len(soundtrack) > 1:
-		randomTrack = random.choice(soundtrack)
-		print('APPENDING:')
-		print(randomTrack)
-		playlist.append(randomTrack)
+		print("Found: " + str(len(soundtrack)) + " Tracks. Writing: " + title + " To File")
+		video_arr = [title, soundtrack]
+		with open("videoparts.py", "a") as parts:	
+			parts.write(str(video_arr))
+	else: 
+		continue
 
-	print(playlist)
+		# randomTrack = random.choice(soundtrack)
+		# print('APPENDING:')
+		# print(randomTrack)
+		# playlist.append(randomTrack)
+
+	# print(playlist)
 
 
 		
