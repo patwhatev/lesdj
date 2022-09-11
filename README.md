@@ -1,7 +1,7 @@
-Sk8List
+SimilarArtists
 =======
 
-A bot that allows users to automate skate video soundrack playlists by a variety of filters. 
+A bot that searches similar artists and generates a spotify playlist based on results
 
 You'll need the following dependencies/packages:
 
